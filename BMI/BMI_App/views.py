@@ -1,13 +1,12 @@
 from django.contrib import messages
 from django.shortcuts import render
-
 from BMI_App.filters import BmiFilter
 from BMI_App.models import Bmi
 
 
 #  Home page
 def index(request):
-    return render(request, 'Index.html')
+    return render(request, 'Home.html')
 
 
 #  BMI Calculator
@@ -71,7 +70,4 @@ def bmi_list(request):
     data = Bmi.objects.all().order_by('bmi').values()
     # filter bmi according to various category
     category_filter = BmiFilter(request.GET, queryset=data)
-    # total_data = Bmi.objects.all().count()
-    # print(total_data)
-
     return render(request, 'BMI List.html', {'data': data, "category_filter": category_filter})
