@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+{% load crispy_forms_tags %}
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #C0C0C0;
+  color: white;
+  margin: 4px;
+  padding: 15px;
+}
+.button {
+  background-color: #b0c4de; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+}
+ul {
+  list-style-type: none;
+  margin: 4px;
+  padding: 15px;
+  overflow: hidden;
+  color: white;
+  background-color: #b0c4de;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: black;
+  font-size: 50px;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-size: 100px;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+
+
+
+
+li a:hover:not(.active) {
+  background-color: skyblue;
+}
+
+.active {
+
+  display: block;
+  color: black;
+  text-align: center;
+  text-size: 100px;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+.container{
+padding-left:40px;
+padding-right:40px;
+font-size: 20px;
+}
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.button {
+  background-color: #tomato; /* tomato color */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.my_form{
+font-size: 20px;
+}
+</style>
+</head>
+<body>
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="{% url 'bmi_list' %}">BMI List</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li style="float:right"><a class="active" href="{% url 'bmi_calculator' %}">BMI Calculator</a></li><br>
+</ul>
+<div>
+<center>
+    <h1>CALCULATE YOUR BMI</h1>
+    <br></center>
+
+      <div class="container">
+          <p>
+        BMI is a measurement of
+        a person's leanness or corpulence based on their height and weight, and is intended to quantify tissue mass.
+        It is widely used as a general indicator of whether a person has a healthy body weight for their height. Specifically,
+        the value obtained from the calculation of BMI is used to categorize whether a person is underweight, normal weight,
+        overweight, or obese depending on what range the value falls between. These ranges of BMI vary based on factors such as
+        region and age, and are sometimes further divided into subcategories such as severely underweight or very severely obese.
+        Being overweight or underweight can have significant health effects, so while BMI is an imperfect measure of healthy body
+        weight, it is a useful indicator of whether any additional testing or action is required.<br>
+        Refer to the table below to see the different categories based on BMI that are used by the calculator.<br>
+    </p>
+<table id="customers">
+  <tr>
+
+    <th><center>Category</center></th>
+      <th><center>BMI range (kg/m<sup>2</sup>)</center></th>
+  </tr>
+
+  <tr>
+    <td><center>Severe Thinness</center></td>
+    <td>	<center>< 16</center></td>
+  </tr>
+<tr>
+    <td><center>Moderate Thinness</center></td>
+    <td><center>16 - 17</center></td>
+  </tr>
+<tr>
+    <td><center>Mild Thinness</center></td>
+    <td><center>	17 - 18.5</center></td>
+  </tr>
+    <tr>
+    <td><center>Normal</center></td>
+    <td>	<center>18.5 - 25</center></td>
+  </tr>
+    <tr>
+    <td><center>Overweight</center></td>
+    <td><center>	25 - 30</center></td>
+  </tr>
+    <tr>
+     <td><center>Obese Class I</center></td>
+    <td>	<center>30 - 35</center></td>
+  </tr>
+    <tr>
+     <td><center>Obese Class II</center></td>
+    <td><center>35 - 40</center></td>
+  </tr>
+    <tr>
+     <td><center>Obese Class III</center></td>
+    <td><center>> 40</center></td>
+  </tr>
+</table>
+<p> Below are the equations used for calculating BMI in the International System of Units (SI) and the US customary system (USC) using a 5'10", 160-pound individual as an example:
+<br>
+    <div class="container">
+          <br>
+<b>USC Units:</b><br><br>
+BMI = 703 ×(
+mass (lbs)/
+height<sup>2</sup> (in))
+= 703 ×
+(160/
+702)
+= 22.96
+kg/
+          m<sup>2</sup><br><br>
+<b>SI, Metric Units:</b><br><br>
+BMI =
+mass (kg)/
+height<sup>2</sup> (m)
+ =
+72.57/
+1.782
+ = 	22.90
+kg
+m<sup>2</sup>
+      </div>
+<center><a class="button" href="{% url 'bmi_calculator' %}">Calculator your BMI here</a><br></p></center>
+</div>
+
+</div>
+</body>
+</html>
