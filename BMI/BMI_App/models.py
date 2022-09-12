@@ -7,7 +7,7 @@ class Bmi(models.Model):
     height = models.FloatField()
     weight = models.FloatField()
     bmi = models.FloatField()
-    range = models.CharField(max_length=20)
+    range = models.CharField(max_length=20)  # Category
 
     def __str__(self):
         return self.gender
