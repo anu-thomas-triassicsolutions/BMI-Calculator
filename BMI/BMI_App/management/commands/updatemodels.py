@@ -3,6 +3,7 @@ import pandas as pd
 from BMI_App.models import Bmi
 
 
+# For updating bulk data to database
 class Command(BaseCommand):
     help = 'import booms'
 
@@ -10,7 +11,9 @@ class Command(BaseCommand):
         pass
 
     def handle(self, *args, **options):
-          df = pd.read_csv("bmi.csv")
-          for AGE, GENDER, HEIGHT, WEIGHT, BMI, RANGE in zip(df.age, df.gender, df.height, df.weight, df.bmi, df.range):
+          data = pd.read_csv("bmi.csv")
+
+          for AGE, GENDER, HEIGHT, WEIGHT, BMI, RANGE in zip(data.age,
+                                                             data.gender, data.height, data.weight, data.bmi, data.range):
               models = Bmi(age=AGE, gender=GENDER, height=HEIGHT, weight=WEIGHT, bmi=BMI, range=RANGE)
               models.save()
