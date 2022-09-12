@@ -4,20 +4,41 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <style>
-.button {
-  background-color: #4CAF50; /* Green */
+.alert {
+  padding: 20px;
+  background-color: #b0c4de;
+  color: black;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: black;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+.button1 {
+  background-color: white;
+  width: 10px;
   border: none;
-  color: white;
+  color: black;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
 }
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 40%;
+  width: 80%;
 }
 
 .card:hover {
@@ -58,7 +79,7 @@ div {
   padding: 20px;
 }
 .my_container{
-padding-left: 605px;
+padding-left: 305px;
 padding-right: 35px;
 }
 ul {
@@ -66,13 +87,14 @@ ul {
   margin: 4px;
   padding: 15px;
   overflow: hidden;
-  background-color: #6495ed;
+  color: white;
+  background-color: #b0c4de;
 }
 h1 {
   font-family: "Times New Roman", Times, serif;
   font-weight: bold;
-  color: White;
-  font-size: 65px;
+  color: black;
+  font-size: 50px;
 }
 li {
   float: left;
@@ -80,7 +102,7 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: black;
   text-align: center;
   text-size: 100px;
   padding: 10px 10px;
@@ -89,12 +111,23 @@ li a {
 
 }
 
+
+
+
 li a:hover:not(.active) {
   background-color: skyblue;
 }
 
 .active {
-  background-color: blue;
+
+  display: block;
+  color: black;
+  text-align: center;
+  text-size: 100px;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 20px;
+
 }
 </style>
 </head>
@@ -133,10 +166,14 @@ li a:hover:not(.active) {
       <label for="weight">Weight</label>
     <input type="number" step="any"  id="weight" name="weight" class="form-control" placeholder="Your weight in kilogram..">
     </div>
-    <input type="submit" class="button" value="Calculate">
+    <input type="submit" value="Calculate">
   </form>
         {% for msg in messages %}
-        {{ msg }}
+        <div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+       <center> {{ msg }}</center>
+</div>
+
         {% endfor %}
 </div>
 
