@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table id="customers">
+  <tr>
+    <th>Gender</th>
+    <th>Age</th>
+    <th>Height</th>
+    <th>Weight</th>
+    <th>BMI</th>
+    <th>Category</th>
+  </tr>
+     {% for category in category_filter.qs %}
+  <tr>
+
+    <td>{{ category.gender }}</td>
+    <td>{{ category.age }}</td>
+    <td>{{ category.height }}</td>
+    <td>{{ category.weight }}</td>
+    <td>{{ category.bmi }}</td>
+    <td>{{ category.range }}</td>
+  </tr>
+  {% endfor %}
+
+</table>
+</div>
+</body>
+</html>

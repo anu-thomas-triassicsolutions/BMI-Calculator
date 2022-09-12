@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+{% load crispy_forms_tags %}
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #C0C0C0;
+  color: black;
+  margin: 4px;
+  padding: 15px;
+}
+ul {
+  list-style-type: none;
+  margin: 4px;
+  padding: 15px;
+  overflow: hidden;
+  color: white;
+  background-color: #fffaf0;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: black;
+  font-size: 50px;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-size: 100px;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+
+
+
+
+li a:hover:not(.active) {
+  background-color: skyblue;
+}
+
+.active {
+  background-color: #b0c4de;
+  display: block;
+  color: white;
+  text-align: center;
+  text-size: 100px;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+.container{
+padding-left:40px;
+padding-right:40px;
+}
+
+</style>
+</head>
+<body>
+<ul>
+  <li><a href="{% url 'index' %}">Home</a></li>
+  <li><a href="#news">BMI List</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li style="float:right"><a class="active" href="#about">BMI Calculator</a></li><br>
+</ul>
+<div class="container">
+<h1><center>  BMI List of all Category</center></h1>
+<div class="container">
+  <form method="get" >
+    {{ category_filter.form }}
+    <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+  </form>
+</div>
+<div>
+
+    {% include "Category.html" %}
+
+</div>
+  {% if category_filter is False %}
+<table id="customers">
+  <tr>
+    <th>Gender</th>
+    <th>Age</th>
+    <th>Height</th>
+    <th>Weight</th>
+    <th>BMI</th>
+    <th>Category</th>
+  </tr>
+  {% for values in data %}
+  <tr>
+    <td>{{ values.gender }}</td>
+    <td>{{ values.age }}</td>
+    <td>{{ values.height }}</td>
+    <td>{{ values.weight }}</td>
+    <td>{{ values.bmi }}</td>
+    <td>{{ values.range }}</td>
+  </tr>
+  {% endfor %}
+
+</table>
+  {% endif %}
+</div>
+</body>
+</html>

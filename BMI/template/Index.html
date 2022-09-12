@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 4px;
+  padding: 15px;
+  overflow: hidden;
+  background-color: #6495ed;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: White;
+  font-size: 65px;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  text-size: 100px;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+
+li a:hover:not(.active) {
+  background-color: skyblue;
+}
+
+.active {
+  background-color: blue;
+}
+.image{
+padding-top:35px;
+}
+.paragraph{
+padding-right:35px;
+padding-left:35px;
+}
+</style>
+    <title>Home</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+</head>
+<body>
+<!--Navbar Starts-->
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="{% url 'bmi_list' %}">BMI List</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li style="float:right"><a class="active" href="{% url 'bmi_calculator' %}">BMI Calculator</a></li><br>
+    </ul>
+    <br><img class="image" src="{% static 'index.png' %}" width="1550px;" height="250px;" alt="Index image"><br>
+    <h1><center>BMI Calculator</center></h1>
+    <p class="paragraph">The Body Mass Index (BMI) Calculator can be used to calculate BMI value and corresponding
+    weight status while taking age into consideration. Use the "Metric Units" tab for the International System of
+    Units or the "Other Units" tab to convert units into either US or metric units. Note that the calculator
+    also computes the Ponderal Index in addition to BMI, both of which are discussed below in detail.BMI is a measurement of
+        a person's leanness or corpulence based on their height and weight, and is intended to quantify tissue mass.
+        It is widely used as a general indicator of whether a person has a healthy body weight for their height. Specifically,
+        the value obtained from the calculation of BMI is used to categorize whether a person is underweight, normal weight,
+        overweight, or obese depending on what range the value falls between. These ranges of BMI vary based on factors such as
+        region and age, and are sometimes further divided into subcategories such as severely underweight or very severely obese.
+        Being overweight or underweight can have significant health effects, so while BMI is an imperfect measure of healthy body
+        weight, it is a useful indicator of whether any additional testing or action is required.
+        Refer to the table below to see the different categories based on BMI that are used by the calculator.
+        BMI ranges -
+For most adults, an ideal BMI is in the 18.5 to 24.9 range.
+
+For children and young people aged 2 to 18, the BMI calculation takes into account age and gender as well as height and weight.
+
+If your BMI is:
+
+below 18.5 – you're in the underweight range
+between 18.5 and 24.9 – you're in the healthy weight range
+between 25 and 29.9 – you're in the overweight range
+between 30 and 39.9 – you're in the obese range.
+    </p><br><br><br>
+
+<!--Navbar Ends-->
+
+<!--Footer Starts-->
+
+<footer class="bg-light text-center text-white">
+
+
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2020 Copyright:
+    <a class="text-white" href="https://mdbootstrap.com/">TriassicSolutions.com</a>
+  </div>
+  <!-- Copyright -->
+</footer>
+
+<!--Footer Ends-->
+</body>
+</html>

@@ -1,0 +1,1995 @@
+age,gender,Cm,height,weight,bmi,range
+54,Male,174,1.74,96,31.71,Obese Class I
+44,Male,189,1.89,87,24.36,Normal
+42,Female,185,1.85,110,32.14,Obese Class I
+22,Female,195,1.95,104,27.35,Overweight
+49,Male,149,1.49,61,27.48,Overweight
+44,Male,189,1.89,104,29.11,Overweight
+56,Male,147,1.47,92,42.57,Obese Class III
+25,Male,154,1.54,111,46.8,Obese Class III
+54,Male,174,1.74,90,29.73,Overweight
+32,Female,169,1.69,103,36.06,Obese Class II
+31,Male,195,1.95,81,21.3,Normal
+49,Female,159,1.59,80,31.64,Obese Class I
+53,Female,192,1.92,101,27.4,Overweight
+54,Male,155,1.55,51,21.23,Normal
+23,Male,191,1.91,79,21.66,Normal
+32,Female,153,1.53,107,45.71,Obese Class III
+57,Female,157,1.57,110,44.63,Obese Class III
+18,Male,140,1.4,129,65.82,Obese Class III
+43,Male,144,1.44,145,69.93,Obese Class III
+59,Male,172,1.72,139,46.98,Obese Class III
+35,Male,157,1.57,110,44.63,Obese Class III
+43,Female,153,1.53,149,63.65,Obese Class III
+57,Female,169,1.69,97,33.96,Obese Class I
+52,Male,185,1.85,139,40.61,Obese Class III
+33,Female,172,1.72,67,22.65,Normal
+34,Female,151,1.51,64,28.07,Overweight
+29,Male,190,1.9,95,26.32,Overweight
+26,Male,187,1.87,62,17.73,Mild Thinness
+20,Female,163,1.63,159,59.84,Obese Class III
+39,Male,179,1.79,152,47.44,Obese Class III
+39,Male,153,1.53,121,51.69,Obese Class III
+39,Male,178,1.78,52,16.41,Moderate Thinness
+44,Female,195,1.95,65,17.09,Mild Thinness
+28,Female,160,1.6,131,51.17,Obese Class III
+35,Female,157,1.57,153,62.07,Obese Class III
+26,Female,189,1.89,132,36.95,Obese Class II
+25,Female,197,1.97,114,29.37,Overweight
+27,Male,144,1.44,80,38.58,Obese Class II
+33,Female,171,1.71,152,51.98,Obese Class III
+51,Female,185,1.85,81,23.67,Normal
+22,Female,175,1.75,120,39.18,Obese Class II
+55,Female,149,1.49,108,48.65,Obese Class III
+38,Male,157,1.57,56,22.72,Normal
+18,Male,161,1.61,118,45.52,Obese Class III
+19,Female,182,1.82,126,38.04,Obese Class II
+41,Male,185,1.85,76,22.21,Normal
+51,Female,188,1.88,122,34.52,Obese Class I
+52,Male,181,1.81,111,33.88,Obese Class I
+33,Male,161,1.61,72,27.78,Overweight
+57,Male,140,1.4,152,77.55,Obese Class III
+23,Female,168,1.68,135,47.83,Obese Class III
+31,Female,176,1.76,54,17.43,Mild Thinness
+32,Male,163,1.63,110,41.4,Obese Class III
+58,Male,172,1.72,105,35.49,Obese Class II
+22,Male,196,1.96,116,30.2,Obese Class I
+42,Female,187,1.87,89,25.45,Overweight
+32,Male,172,1.72,92,31.1,Obese Class I
+51,Male,178,1.78,127,40.08,Obese Class III
+46,Female,164,1.64,70,26.03,Overweight
+50,Male,143,1.43,88,43.03,Obese Class III
+38,Female,191,1.91,54,14.8,Severe Thinness
+26,Female,141,1.41,143,71.93,Obese Class III
+59,Male,193,1.93,54,14.5,Severe Thinness
+54,Male,190,1.9,83,22.99,Normal
+48,Male,175,1.75,135,44.08,Obese Class III
+56,Female,179,1.79,158,49.31,Obese Class III
+54,Female,172,1.72,96,32.45,Obese Class I
+57,Female,168,1.68,59,20.9,Normal
+37,Female,164,1.64,82,30.49,Obese Class I
+34,Female,194,1.94,136,36.14,Obese Class II
+55,Female,153,1.53,51,21.79,Normal
+31,Male,178,1.78,117,36.93,Obese Class II
+22,Male,141,1.41,80,40.24,Obese Class III
+53,Male,180,1.8,75,23.15,Normal
+37,Female,185,1.85,100,29.22,Overweight
+51,Female,197,1.97,154,39.68,Obese Class II
+58,Male,165,1.65,104,38.2,Obese Class II
+50,Female,168,1.68,90,31.89,Obese Class I
+49,Female,176,1.76,122,39.39,Obese Class II
+42,Male,181,1.81,51,15.57,Severe Thinness
+24,Male,164,1.64,75,27.89,Overweight
+18,Female,166,1.66,140,50.81,Obese Class III
+37,Female,190,1.9,105,29.09,Overweight
+24,Male,186,1.86,118,34.11,Obese Class I
+23,Male,168,1.68,123,43.58,Obese Class III
+38,Male,198,1.98,50,12.75,Severe Thinness
+36,Female,175,1.75,141,46.04,Obese Class III
+22,Male,145,1.45,117,55.65,Obese Class III
+33,Female,159,1.59,104,41.14,Obese Class III
+54,Female,185,1.85,140,40.91,Obese Class III
+29,Female,178,1.78,154,48.6,Obese Class III
+34,Female,183,1.83,96,28.67,Overweight
+34,Female,194,1.94,111,29.49,Overweight
+24,Male,177,1.77,61,19.47,Normal
+28,Male,197,1.97,119,30.66,Obese Class I
+44,Female,170,1.7,156,53.98,Obese Class III
+18,Male,142,1.42,69,34.22,Obese Class I
+59,Male,160,1.6,139,54.3,Obese Class III
+47,Male,195,1.95,69,18.15,Mild Thinness
+42,Female,190,1.9,50,13.85,Severe Thinness
+31,Male,199,1.99,156,39.39,Obese Class II
+37,Male,154,1.54,105,44.27,Obese Class III
+18,Male,161,1.61,155,59.8,Obese Class III
+36,Female,198,1.98,145,36.99,Obese Class II
+39,Female,192,1.92,140,37.98,Obese Class II
+38,Male,195,1.95,126,33.14,Obese Class I
+21,Male,166,1.66,160,58.06,Obese Class III
+47,Male,159,1.59,154,60.92,Obese Class III
+38,Female,181,1.81,106,32.36,Obese Class I
+44,Male,149,1.49,66,29.73,Overweight
+35,Female,150,1.5,70,31.11,Obese Class I
+55,Female,146,1.46,157,73.65,Obese Class III
+54,Male,190,1.9,135,37.4,Obese Class II
+51,Female,192,1.92,90,24.41,Normal
+33,Female,177,1.77,96,30.64,Obese Class I
+35,Male,148,1.48,60,27.39,Overweight
+45,Female,165,1.65,57,20.94,Normal
+31,Female,146,1.46,104,48.79,Obese Class III
+51,Male,144,1.44,108,52.08,Obese Class III
+40,Female,176,1.76,156,50.36,Obese Class III
+48,Female,168,1.68,87,30.82,Obese Class I
+37,Male,187,1.87,122,34.89,Obese Class I
+48,Male,187,1.87,138,39.46,Obese Class II
+27,Female,184,1.84,160,47.26,Obese Class III
+25,Female,158,1.58,149,59.69,Obese Class III
+22,Male,158,1.58,96,38.46,Obese Class II
+45,Male,194,1.94,115,30.56,Obese Class I
+29,Female,145,1.45,79,37.57,Obese Class II
+27,Male,182,1.82,151,45.59,Obese Class III
+41,Male,154,1.54,54,22.77,Normal
+24,Female,168,1.68,139,49.25,Obese Class III
+25,Female,187,1.87,70,20.02,Normal
+26,Female,158,1.58,153,61.29,Obese Class III
+45,Female,167,1.67,110,39.44,Obese Class II
+50,Female,171,1.71,155,53.01,Obese Class III
+43,Female,183,1.83,150,44.79,Obese Class III
+45,Female,190,1.9,156,43.21,Obese Class III
+38,Male,194,1.94,108,28.7,Overweight
+53,Male,171,1.71,147,50.27,Obese Class III
+52,Male,159,1.59,124,49.05,Obese Class III
+37,Female,169,1.69,54,18.91,Normal
+56,Female,167,1.67,85,30.48,Obese Class I
+53,Male,180,1.8,149,45.99,Obese Class III
+18,Male,163,1.63,123,46.29,Obese Class III
+37,Male,140,1.4,79,40.31,Obese Class III
+55,Male,197,1.97,125,32.21,Obese Class I
+34,Male,194,1.94,106,28.16,Overweight
+60,Female,140,1.4,146,74.49,Obese Class III
+26,Male,195,1.95,98,25.77,Overweight
+58,Female,168,1.68,115,40.75,Obese Class III
+59,Female,196,1.96,50,13.02,Severe Thinness
+43,Male,140,1.4,52,26.53,Overweight
+58,Female,150,1.5,60,26.67,Overweight
+24,Female,168,1.68,140,49.6,Obese Class III
+32,Female,155,1.55,111,46.2,Obese Class III
+27,Female,179,1.79,103,32.15,Obese Class I
+55,Female,182,1.82,84,25.36,Overweight
+20,Male,168,1.68,160,56.69,Obese Class III
+30,Female,187,1.87,102,29.17,Overweight
+47,Male,181,1.81,105,32.05,Obese Class I
+25,Male,199,1.99,99,25,Normal
+36,Female,184,1.84,76,22.45,Normal
+33,Male,192,1.92,101,27.4,Overweight
+25,Female,182,1.82,143,43.17,Obese Class III
+32,Female,172,1.72,111,37.52,Obese Class II
+43,Male,181,1.81,78,23.81,Normal
+59,Male,176,1.76,109,35.19,Obese Class II
+45,Female,156,1.56,106,43.56,Obese Class III
+40,Female,151,1.51,67,29.38,Overweight
+28,Female,188,1.88,80,22.63,Normal
+34,Male,187,1.87,136,38.89,Obese Class II
+24,Male,174,1.74,138,45.58,Obese Class III
+29,Male,167,1.67,151,54.14,Obese Class III
+39,Female,196,1.96,131,34.1,Obese Class I
+56,Male,197,1.97,149,38.39,Obese Class II
+58,Female,185,1.85,119,34.77,Obese Class I
+36,Female,170,1.7,102,35.29,Obese Class II
+27,Female,181,1.81,94,28.69,Overweight
+37,Female,166,1.66,126,45.73,Obese Class III
+40,Male,188,1.88,100,28.29,Overweight
+44,Female,162,1.62,74,28.2,Overweight
+24,Male,177,1.77,117,37.35,Obese Class II
+39,Male,162,1.62,97,36.96,Obese Class II
+36,Male,180,1.8,73,22.53,Normal
+59,Female,192,1.92,108,29.3,Overweight
+49,Male,165,1.65,80,29.38,Overweight
+23,Female,167,1.67,135,48.41,Obese Class III
+41,Female,182,1.82,84,25.36,Overweight
+35,Female,161,1.61,134,51.7,Obese Class III
+58,Male,158,1.58,95,38.05,Obese Class II
+34,Male,141,1.41,85,42.75,Obese Class III
+26,Male,154,1.54,100,42.17,Obese Class III
+24,Male,165,1.65,105,38.57,Obese Class II
+58,Female,142,1.42,137,67.94,Obese Class III
+60,Male,141,1.41,94,47.28,Obese Class III
+47,Male,145,1.45,108,51.37,Obese Class III
+60,Male,157,1.57,74,30.02,Obese Class I
+21,Female,177,1.77,117,37.35,Obese Class II
+42,Female,166,1.66,144,52.26,Obese Class III
+20,Male,193,1.93,151,40.54,Obese Class III
+56,Male,184,1.84,57,16.84,Moderate Thinness
+49,Male,179,1.79,93,29.03,Overweight
+27,Female,156,1.56,89,36.57,Obese Class II
+35,Male,182,1.82,104,31.4,Obese Class I
+47,Male,145,1.45,160,76.1,Obese Class III
+40,Female,150,1.5,87,38.67,Obese Class II
+56,Male,145,1.45,99,47.09,Obese Class III
+26,Female,196,1.96,122,31.76,Obese Class I
+20,Male,191,1.91,96,26.32,Overweight
+46,Female,148,1.48,67,30.59,Obese Class I
+32,Female,150,1.5,84,37.33,Obese Class II
+49,Male,148,1.48,155,70.76,Obese Class III
+47,Female,153,1.53,146,62.37,Obese Class III
+31,Female,196,1.96,159,41.39,Obese Class III
+58,Female,185,1.85,52,15.19,Severe Thinness
+36,Female,171,1.71,131,44.8,Obese Class III
+57,Female,143,1.43,118,57.7,Obese Class III
+41,Female,142,1.42,86,42.65,Obese Class III
+48,Female,141,1.41,126,63.38,Obese Class III
+48,Male,159,1.59,109,43.12,Obese Class III
+29,Female,173,1.73,82,27.4,Overweight
+20,Male,183,1.83,138,41.21,Obese Class III
+37,Female,152,1.52,90,38.95,Obese Class II
+54,Male,178,1.78,140,44.19,Obese Class III
+41,Male,188,1.88,54,15.28,Severe Thinness
+25,Female,155,1.55,144,59.94,Obese Class III
+51,Male,166,1.66,70,25.4,Overweight
+41,Male,188,1.88,123,34.8,Obese Class I
+42,Female,171,1.71,120,41.04,Obese Class III
+50,Male,179,1.79,130,40.57,Obese Class III
+58,Female,186,1.86,137,39.6,Obese Class II
+36,Female,153,1.53,78,33.32,Obese Class I
+31,Female,184,1.84,86,25.4,Overweight
+23,Female,177,1.77,81,25.85,Overweight
+55,Male,145,1.45,78,37.1,Obese Class II
+18,Male,170,1.7,81,28.03,Overweight
+27,Male,181,1.81,141,43.04,Obese Class III
+47,Male,165,1.65,155,56.93,Obese Class III
+50,Female,174,1.74,65,21.47,Normal
+49,Female,146,1.46,110,51.6,Obese Class III
+20,Male,178,1.78,85,26.83,Overweight
+38,Male,166,1.66,61,22.14,Normal
+58,Male,191,1.91,62,17,Moderate Thinness
+50,Female,177,1.77,155,49.47,Obese Class III
+52,Female,183,1.83,50,14.93,Severe Thinness
+26,Male,151,1.51,114,50,Obese Class III
+47,Male,182,1.82,98,29.59,Overweight
+42,Female,142,1.42,159,78.85,Obese Class III
+20,Female,188,1.88,90,25.46,Overweight
+28,Male,161,1.61,89,34.34,Obese Class I
+35,Male,153,1.53,70,29.9,Overweight
+36,Male,140,1.4,143,72.96,Obese Class III
+38,Male,169,1.69,141,49.37,Obese Class III
+22,Female,162,1.62,159,60.59,Obese Class III
+24,Male,183,1.83,147,43.9,Obese Class III
+29,Female,162,1.62,58,22.1,Normal
+37,Female,172,1.72,109,36.84,Obese Class II
+23,Female,150,1.5,119,52.89,Obese Class III
+43,Female,169,1.69,145,50.77,Obese Class III
+42,Female,184,1.84,132,38.99,Obese Class II
+38,Male,159,1.59,104,41.14,Obese Class III
+36,Male,163,1.63,131,49.31,Obese Class III
+45,Male,156,1.56,137,56.3,Obese Class III
+57,Female,157,1.57,52,21.1,Normal
+35,Male,147,1.47,84,38.87,Obese Class II
+56,Male,141,1.41,86,43.26,Obese Class III
+49,Male,173,1.73,139,46.44,Obese Class III
+27,Male,154,1.54,145,61.14,Obese Class III
+42,Male,168,1.68,148,52.44,Obese Class III
+24,Male,168,1.68,50,17.72,Mild Thinness
+18,Male,145,1.45,130,61.83,Obese Class III
+18,Male,152,1.52,103,44.58,Obese Class III
+22,Female,187,1.87,121,34.6,Obese Class I
+39,Female,163,1.63,57,21.45,Normal
+41,Male,178,1.78,83,26.2,Overweight
+35,Female,187,1.87,94,26.88,Overweight
+44,Female,179,1.79,114,35.58,Obese Class II
+60,Male,190,1.9,80,22.16,Normal
+39,Male,172,1.72,75,25.35,Overweight
+60,Male,188,1.88,57,16.13,Moderate Thinness
+32,Male,193,1.93,65,17.45,Mild Thinness
+56,Female,147,1.47,126,58.31,Obese Class III
+58,Female,147,1.47,94,43.5,Obese Class III
+55,Male,166,1.66,107,38.83,Obese Class II
+33,Female,192,1.92,139,37.71,Obese Class II
+28,Male,181,1.81,139,42.43,Obese Class III
+18,Male,150,1.5,74,32.89,Obese Class I
+29,Male,178,1.78,160,50.5,Obese Class III
+25,Female,156,1.56,52,21.37,Normal
+18,Male,149,1.49,100,45.04,Obese Class III
+57,Male,156,1.56,74,30.41,Obese Class I
+60,Male,183,1.83,105,31.35,Obese Class I
+37,Female,162,1.62,68,25.91,Overweight
+29,Female,165,1.65,83,30.49,Obese Class I
+32,Female,168,1.68,143,50.67,Obese Class III
+20,Male,160,1.6,156,60.94,Obese Class III
+27,Female,169,1.69,88,30.81,Obese Class I
+21,Female,140,1.4,76,38.78,Obese Class II
+23,Female,187,1.87,92,26.31,Overweight
+41,Male,151,1.51,82,35.96,Obese Class II
+39,Female,186,1.86,140,40.47,Obese Class III
+42,Male,182,1.82,108,32.6,Obese Class I
+25,Male,188,1.88,81,22.92,Normal
+48,Male,179,1.79,110,34.33,Obese Class I
+55,Female,156,1.56,126,51.78,Obese Class III
+43,Male,188,1.88,114,32.25,Obese Class I
+38,Male,183,1.83,153,45.69,Obese Class III
+36,Male,144,1.44,88,42.44,Obese Class III
+34,Male,196,1.96,69,17.96,Mild Thinness
+33,Male,171,1.71,141,48.22,Obese Class III
+21,Male,171,1.71,147,50.27,Obese Class III
+54,Female,180,1.8,156,48.15,Obese Class III
+39,Male,191,1.91,146,40.02,Obese Class III
+18,Female,179,1.79,67,20.91,Normal
+38,Female,180,1.8,60,18.52,Normal
+55,Female,154,1.54,132,55.66,Obese Class III
+19,Male,188,1.88,99,28.01,Overweight
+58,Male,142,1.42,135,66.95,Obese Class III
+25,Male,170,1.7,95,32.87,Obese Class I
+46,Male,152,1.52,141,61.03,Obese Class III
+34,Female,190,1.9,118,32.69,Obese Class I
+18,Female,181,1.81,111,33.88,Obese Class I
+42,Male,153,1.53,104,44.43,Obese Class III
+60,Male,187,1.87,140,40.04,Obese Class III
+60,Female,144,1.44,66,31.83,Obese Class I
+29,Female,148,1.48,54,24.65,Normal
+59,Female,199,1.99,92,23.23,Normal
+53,Female,167,1.67,85,30.48,Obese Class I
+60,Female,164,1.64,71,26.4,Overweight
+53,Female,185,1.85,102,29.8,Overweight
+56,Female,164,1.64,160,59.49,Obese Class III
+47,Male,142,1.42,71,35.21,Obese Class II
+19,Male,165,1.65,68,24.98,Normal
+59,Female,172,1.72,62,20.96,Normal
+54,Female,157,1.57,56,22.72,Normal
+42,Male,155,1.55,57,23.73,Normal
+50,Female,167,1.67,153,54.86,Obese Class III
+40,Female,164,1.64,126,46.85,Obese Class III
+50,Female,189,1.89,125,34.99,Obese Class I
+33,Female,161,1.61,145,55.94,Obese Class III
+42,Female,155,1.55,71,29.55,Overweight
+26,Female,171,1.71,118,40.35,Obese Class III
+56,Female,154,1.54,92,38.79,Obese Class II
+43,Male,179,1.79,83,25.9,Overweight
+21,Male,170,1.7,115,39.79,Obese Class II
+41,Female,184,1.84,106,31.31,Obese Class I
+31,Female,191,1.91,68,18.64,Normal
+38,Male,162,1.62,58,22.1,Normal
+37,Male,178,1.78,138,43.56,Obese Class III
+35,Female,157,1.57,60,24.34,Normal
+56,Male,184,1.84,83,24.52,Normal
+51,Male,197,1.97,88,22.68,Normal
+30,Female,160,1.6,51,19.92,Normal
+32,Male,184,1.84,153,45.19,Obese Class III
+50,Male,190,1.9,50,13.85,Severe Thinness
+41,Male,174,1.74,90,29.73,Overweight
+28,Female,189,1.89,124,34.71,Obese Class I
+50,Female,186,1.86,143,41.33,Obese Class III
+25,Female,180,1.8,58,17.9,Mild Thinness
+48,Female,186,1.86,148,42.78,Obese Class III
+33,Female,193,1.93,61,16.38,Moderate Thinness
+49,Male,161,1.61,103,39.74,Obese Class II
+40,Female,151,1.51,158,69.3,Obese Class III
+57,Female,195,1.95,147,38.66,Obese Class II
+54,Female,184,1.84,152,44.9,Obese Class III
+55,Male,141,1.41,80,40.24,Obese Class III
+47,Female,185,1.85,94,27.47,Overweight
+45,Female,186,1.86,127,36.71,Obese Class II
+39,Male,142,1.42,131,64.97,Obese Class III
+58,Female,147,1.47,67,31.01,Obese Class I
+44,Male,151,1.51,62,27.19,Overweight
+30,Female,160,1.6,124,48.44,Obese Class III
+48,Male,185,1.85,60,17.53,Mild Thinness
+46,Female,163,1.63,63,23.71,Normal
+29,Male,174,1.74,95,31.38,Obese Class I
+53,Female,150,1.5,144,64,Obese Class III
+28,Male,142,1.42,91,45.13,Obese Class III
+55,Male,178,1.78,142,44.82,Obese Class III
+43,Female,154,1.54,96,40.48,Obese Class III
+50,Male,176,1.76,87,28.09,Overweight
+30,Male,159,1.59,120,47.47,Obese Class III
+22,Male,191,1.91,62,17,Moderate Thinness
+47,Male,177,1.77,117,37.35,Obese Class II
+39,Male,151,1.51,154,67.54,Obese Class III
+35,Female,182,1.82,149,44.98,Obese Class III
+21,Female,197,1.97,72,18.55,Normal
+43,Male,146,1.46,138,64.74,Obese Class III
+23,Female,160,1.6,83,32.42,Obese Class I
+59,Female,157,1.57,66,26.78,Overweight
+38,Female,150,1.5,50,22.22,Normal
+31,Female,167,1.67,58,20.8,Normal
+18,Female,180,1.8,70,21.6,Normal
+42,Female,183,1.83,76,22.69,Normal
+31,Female,183,1.83,87,25.98,Overweight
+48,Female,152,1.52,154,66.66,Obese Class III
+59,Female,164,1.64,71,26.4,Overweight
+39,Male,187,1.87,96,27.45,Overweight
+36,Male,169,1.69,136,47.62,Obese Class III
+30,Female,149,1.49,61,27.48,Overweight
+30,Male,163,1.63,137,51.56,Obese Class III
+60,Female,195,1.95,104,27.35,Overweight
+60,Male,174,1.74,107,35.34,Obese Class II
+25,Male,182,1.82,70,21.13,Normal
+18,Male,169,1.69,110,38.51,Obese Class II
+49,Male,193,1.93,130,34.9,Obese Class I
+36,Male,148,1.48,141,64.37,Obese Class III
+28,Male,186,1.86,68,19.66,Normal
+24,Male,165,1.65,143,52.53,Obese Class III
+57,Female,146,1.46,123,57.7,Obese Class III
+41,Female,166,1.66,133,48.27,Obese Class III
+53,Male,179,1.79,56,17.48,Mild Thinness
+47,Female,177,1.77,101,32.24,Obese Class I
+53,Male,181,1.81,154,47.01,Obese Class III
+45,Female,161,1.61,154,59.41,Obese Class III
+18,Female,157,1.57,103,41.79,Obese Class III
+59,Female,169,1.69,98,34.31,Obese Class I
+47,Female,152,1.52,114,49.34,Obese Class III
+50,Female,162,1.62,64,24.39,Normal
+47,Male,162,1.62,130,49.54,Obese Class III
+53,Female,177,1.77,61,19.47,Normal
+48,Female,195,1.95,61,16.04,Moderate Thinness
+27,Male,140,1.4,146,74.49,Obese Class III
+47,Female,186,1.86,146,42.2,Obese Class III
+35,Female,178,1.78,107,33.77,Obese Class I
+44,Male,174,1.74,54,17.84,Mild Thinness
+33,Female,180,1.8,59,18.21,Mild Thinness
+58,Male,188,1.88,141,39.89,Obese Class II
+35,Female,187,1.87,130,37.18,Obese Class II
+52,Female,153,1.53,77,32.89,Obese Class I
+40,Female,165,1.65,95,34.89,Obese Class I
+29,Female,178,1.78,79,24.93,Normal
+39,Female,163,1.63,154,57.96,Obese Class III
+39,Female,150,1.5,97,43.11,Obese Class III
+59,Male,179,1.79,127,39.64,Obese Class II
+24,Male,165,1.65,62,22.77,Normal
+39,Male,168,1.68,158,55.98,Obese Class III
+48,Female,153,1.53,133,56.82,Obese Class III
+36,Male,184,1.84,157,46.37,Obese Class III
+60,Male,188,1.88,65,18.39,Mild Thinness
+56,Female,166,1.66,153,55.52,Obese Class III
+27,Female,172,1.72,116,39.21,Obese Class II
+46,Male,182,1.82,73,22.04,Normal
+48,Male,143,1.43,149,72.86,Obese Class III
+27,Male,152,1.52,146,63.19,Obese Class III
+23,Female,186,1.86,128,37,Obese Class II
+55,Male,159,1.59,140,55.38,Obese Class III
+37,Male,146,1.46,70,32.84,Obese Class I
+46,Female,176,1.76,121,39.06,Obese Class II
+48,Female,146,1.46,101,47.38,Obese Class III
+56,Male,159,1.59,145,57.36,Obese Class III
+25,Male,162,1.62,157,59.82,Obese Class III
+43,Female,172,1.72,90,30.42,Obese Class I
+46,Female,169,1.69,121,42.37,Obese Class III
+40,Male,182,1.82,50,15.09,Severe Thinness
+53,Female,183,1.83,79,23.59,Normal
+39,Male,176,1.76,77,24.86,Normal
+27,Female,188,1.88,128,36.22,Obese Class II
+27,Female,175,1.75,83,27.1,Overweight
+42,Male,154,1.54,81,34.15,Obese Class I
+29,Female,184,1.84,147,43.42,Obese Class III
+48,Male,179,1.79,123,38.39,Obese Class II
+47,Male,152,1.52,132,57.13,Obese Class III
+39,Male,179,1.79,56,17.48,Mild Thinness
+34,Female,145,1.45,141,67.06,Obese Class III
+36,Female,181,1.81,80,24.42,Normal
+29,Male,158,1.58,127,50.87,Obese Class III
+56,Female,188,1.88,99,28.01,Overweight
+54,Male,145,1.45,142,67.54,Obese Class III
+34,Male,161,1.61,115,44.37,Obese Class III
+22,Male,198,1.98,109,27.8,Overweight
+59,Male,147,1.47,142,65.71,Obese Class III
+24,Male,154,1.54,112,47.23,Obese Class III
+56,Female,178,1.78,65,20.52,Normal
+42,Male,195,1.95,153,40.24,Obese Class III
+50,Female,167,1.67,79,28.33,Overweight
+53,Male,183,1.83,131,39.12,Obese Class II
+27,Female,164,1.64,142,52.8,Obese Class III
+20,Male,167,1.67,64,22.95,Normal
+44,Female,151,1.51,55,24.12,Normal
+40,Female,147,1.47,107,49.52,Obese Class III
+56,Female,155,1.55,115,47.87,Obese Class III
+57,Female,172,1.72,108,36.51,Obese Class II
+37,Female,142,1.42,86,42.65,Obese Class III
+26,Male,146,1.46,85,39.88,Obese Class II
+29,Female,188,1.88,115,32.54,Obese Class I
+44,Male,173,1.73,111,37.09,Obese Class II
+39,Female,160,1.6,109,42.58,Obese Class III
+35,Male,187,1.87,80,22.88,Normal
+48,Male,198,1.98,136,34.69,Obese Class I
+46,Female,179,1.79,150,46.82,Obese Class III
+56,Female,164,1.64,59,21.94,Normal
+38,Female,146,1.46,147,68.96,Obese Class III
+43,Female,198,1.98,50,12.75,Severe Thinness
+60,Female,170,1.7,53,18.34,Mild Thinness
+41,Male,152,1.52,98,42.42,Obese Class III
+51,Female,150,1.5,153,68,Obese Class III
+48,Female,184,1.84,121,35.74,Obese Class II
+39,Female,141,1.41,136,68.41,Obese Class III
+33,Male,150,1.5,95,42.22,Obese Class III
+44,Male,173,1.73,131,43.77,Obese Class III
+54,Male,173,0.1,59,5391.5,Obese Class III
+35,Male,173,1.91,54,14.73,Severe Thinness
+20,Male,173,0.09,86,10843.32,Obese Class III
+38,Male,173,0.9,42,51.44,Obese Class III
+60,Male,173,0.33,110,994.94,Obese Class III
+59,Male,173,1.69,37,12.98,Severe Thinness
+23,Male,173,1.27,63,39.35,Obese Class II
+50,Male,173,1.31,91,53.33,Obese Class III
+27,Male,173,0.6,94,256.84,Obese Class III
+54,Male,173,1.92,84,22.84,Normal
+35,Male,173,1.09,66,55.24,Obese Class III
+32,Male,173,1.03,76,71.46,Obese Class III
+33,Male,173,1.1,41,34.14,Obese Class I
+39,Male,173,1.04,64,59.53,Obese Class III
+57,Male,173,1.52,67,29.16,Overweight
+41,Male,173,0.42,68,386.22,Obese Class III
+53,Male,173,0.83,66,96.91,Obese Class III
+31,Male,173,0.01,36,391404.36,Obese Class III
+33,Male,173,1.34,70,38.85,Obese Class II
+24,Male,173,1.48,102,46.57,Obese Class III
+28,Male,173,1.17,95,69.75,Obese Class III
+34,Male,173,0.12,77,4961.59,Obese Class III
+35,Male,173,1.24,99,64.32,Obese Class III
+39,Male,173,1.76,87,28.08,Overweight
+34,Male,173,0.98,57,59.1,Obese Class III
+56,Male,173,1.2,92,63.82,Obese Class III
+27,Male,173,1.58,86,34.44,Obese Class I
+26,Male,173,1.95,106,28.01,Overweight
+45,Male,173,1.56,54,22.22,Normal
+22,Male,173,0.91,72,86,Obese Class III
+40,Male,173,1.6,94,36.52,Obese Class II
+35,Male,173,1.86,89,25.73,Overweight
+58,Male,173,1,74,74.6,Obese Class III
+37,Male,173,1.36,49,26.32,Overweight
+59,Male,173,1.45,93,44.11,Obese Class III
+35,Male,173,1.67,79,28.48,Overweight
+27,Male,173,1.17,97,70.51,Obese Class III
+24,Male,173,1.89,102,28.58,Overweight
+37,Male,173,0.09,35,4463.5,Obese Class III
+26,Male,173,1.18,69,49.65,Obese Class III
+57,Male,173,0.08,85,11833.61,Obese Class III
+28,Male,173,1.93,110,29.63,Overweight
+37,Male,173,0.01,58,1350073.52,Obese Class III
+42,Male,173,0.66,104,237.21,Obese Class III
+35,Male,173,0.28,102,1299.59,Obese Class III
+28,Male,173,0.71,44,87.94,Obese Class III
+45,Male,173,1.44,48,23.13,Normal
+27,Male,173,0.23,42,813.48,Obese Class III
+55,Male,173,1.34,78,43.7,Obese Class III
+53,Male,173,0.58,99,291.29,Obese Class III
+59,Male,173,1.39,79,40.81,Obese Class III
+27,Male,173,1.87,46,13.18,Severe Thinness
+60,Male,173,0.41,40,236.63,Obese Class III
+43,Male,173,0.82,55,81.11,Obese Class III
+55,Male,173,1.18,64,45.99,Obese Class III
+40,Male,173,1.01,66,65.13,Obese Class III
+35,Male,173,0.73,43,80.11,Obese Class III
+38,Male,173,0.65,71,168.15,Obese Class III
+47,Male,173,0.4,90,574.61,Obese Class III
+56,Male,173,0.16,45,1685.2,Obese Class III
+27,Male,173,0.19,45,1297.75,Obese Class III
+22,Male,173,1.07,74,64.9,Obese Class III
+42,Male,173,0.84,32,45.12,Obese Class III
+26,Male,173,0.74,85,157.3,Obese Class III
+34,Male,173,1.3,98,58.15,Obese Class III
+53,Male,173,0.85,78,107.99,Obese Class III
+45,Male,173,1.28,94,57.16,Obese Class III
+44,Male,173,0.37,38,271.17,Obese Class III
+39,Male,173,0.7,32,65.43,Obese Class III
+37,Male,173,0.76,64,111.36,Obese Class III
+34,Male,173,0.34,101,881.79,Obese Class III
+49,Male,173,0.96,96,103.56,Obese Class III
+20,Male,173,1.72,58,19.53,Normal
+49,Male,173,1.65,52,19.01,Normal
+32,Male,173,1.44,89,42.78,Obese Class III
+50,Male,173,0.97,90,95.17,Obese Class III
+20,Male,173,1.56,88,35.98,Obese Class II
+19,Male,173,0.14,56,2714.67,Obese Class III
+39,Male,173,0.07,36,7456.87,Obese Class III
+37,Male,173,1.5,50,22.13,Normal
+45,Male,173,0.78,67,109.57,Obese Class III
+51,Male,173,1.08,86,73.14,Obese Class III
+59,Male,173,0.38,37,256.52,Obese Class III
+21,Male,173,0.27,45,616.94,Obese Class III
+39,Male,173,0.98,37,38.37,Obese Class II
+41,Male,173,0.81,54,82.43,Obese Class III
+26,Male,173,1.7,38,13.12,Severe Thinness
+24,Male,173,1.12,56,44.73,Obese Class III
+29,Male,173,1.86,87,25.2,Overweight
+26,Male,173,0.37,82,610.66,Obese Class III
+48,Male,173,1.86,98,28.26,Overweight
+23,Male,173,0.23,71,1333.67,Obese Class III
+44,Male,173,1.61,55,21.24,Normal
+36,Male,173,0.73,37,68.86,Obese Class III
+60,Male,173,0.1,37,4065.03,Obese Class III
+23,Male,173,1.78,38,12.01,Severe Thinness
+51,Male,173,0.82,32,47.59,Obese Class III
+52,Female,173,1.56,30,12.33,Severe Thinness
+21,Female,173,1.75,64,20.85,Normal
+42,Female,173,1.78,109,34.23,Obese Class I
+25,Female,173,0.4,62,388.57,Obese Class III
+35,Female,173,1.91,108,29.56,Overweight
+24,Female,173,1.66,61,22.11,Normal
+19,Female,173,0.59,84,243.02,Obese Class III
+25,Female,173,1.55,42,17.45,Mild Thinness
+59,Female,173,0.38,36,246.25,Obese Class III
+54,Female,173,1.02,67,63.99,Obese Class III
+21,Female,173,1.51,73,32.06,Obese Class I
+21,Female,173,0.02,57,154803.38,Obese Class III
+45,Female,173,0.82,94,139.51,Obese Class III
+29,Female,173,0.94,30,33.87,Obese Class I
+54,Female,173,0.44,58,296.39,Obese Class III
+48,Female,173,0.17,77,2580.65,Obese Class III
+30,Female,173,0.53,57,203.94,Obese Class III
+44,Female,173,0.81,96,145.58,Obese Class III
+49,Female,173,1.45,69,33,Obese Class I
+28,Female,173,1.95,55,14.42,Severe Thinness
+33,Female,173,0.24,30,534.3,Obese Class III
+51,Female,173,1.94,107,28.51,Overweight
+51,Female,173,1.11,34,27.4,Overweight
+47,Female,173,0.49,101,427.69,Obese Class III
+34,Female,173,0.03,77,98106.75,Obese Class III
+47,Female,173,1.38,50,26.29,Overweight
+59,Female,173,1.8,61,18.93,Normal
+29,Female,173,1.4,82,41.64,Obese Class III
+44,Female,173,0.3,66,712.45,Obese Class III
+30,Female,173,1.97,76,19.58,Normal
+27,Female,173,0.53,43,154.36,Obese Class III
+19,Female,173,0.57,105,320.56,Obese Class III
+38,Female,173,0.88,63,80.94,Obese Class III
+43,Female,173,0.17,61,2076.64,Obese Class III
+22,Female,173,1.15,93,70.56,Obese Class III
+33,Female,173,1.4,46,23.53,Normal
+54,Female,173,1.28,72,43.63,Obese Class III
+48,Female,173,1.63,110,41.31,Obese Class III
+38,Female,173,0.68,108,230.38,Obese Class III
+41,Female,173,1.56,105,43.25,Obese Class III
+29,Female,173,1.03,76,71.44,Obese Class III
+31,Female,173,0.57,70,217.64,Obese Class III
+40,Female,173,1.83,94,28.08,Overweight
+21,Female,173,1.14,31,23.74,Normal
+39,Female,173,1.84,97,28.66,Overweight
+45,Female,173,0.22,53,1105.1,Obese Class III
+48,Female,173,1.93,97,26.17,Overweight
+25,Female,173,0.59,82,236.59,Obese Class III
+48,Female,173,1.12,41,32.59,Obese Class I
+59,Female,173,0.62,108,280.59,Obese Class III
+46,Female,173,0.05,89,42030.81,Obese Class III
+37,Female,173,0.08,85,13824.92,Obese Class III
+37,Female,173,0.47,109,503.64,Obese Class III
+19,Female,173,0.66,97,225.04,Obese Class III
+19,Female,173,0.51,72,277.32,Obese Class III
+51,Female,173,1.4,105,53.23,Obese Class III
+31,Female,173,0.75,106,187.14,Obese Class III
+52,Female,173,1.57,62,25.27,Overweight
+48,Female,173,0.57,77,235.77,Obese Class III
+34,Female,173,0.99,66,67.28,Obese Class III
+30,Female,173,1.8,73,22.58,Normal
+46,Female,173,1.52,86,37.27,Obese Class II
+49,Female,173,1.29,101,60.92,Obese Class III
+47,Female,173,1.39,50,25.75,Overweight
+42,Female,173,0.41,34,202.15,Obese Class III
+59,Female,173,1.84,36,10.64,Severe Thinness
+60,Female,173,1.14,53,40.94,Obese Class III
+43,Female,173,0.67,60,133.48,Obese Class III
+23,Female,173,1.61,36,13.93,Severe Thinness
+35,Female,173,0.87,69,90.59,Obese Class III
+35,Female,173,0.37,76,562.63,Obese Class III
+58,Female,173,0.99,81,82.36,Obese Class III
+41,Female,173,1.75,88,28.8,Overweight
+54,Female,173,1.48,75,34.04,Obese Class I
+30,Female,173,0.28,70,904.25,Obese Class III
+34,Female,173,0.19,36,1013.34,Obese Class III
+52,Female,173,0.92,30,35.73,Obese Class II
+52,Female,173,1.77,32,10.25,Severe Thinness
+27,Female,173,1.01,36,35.32,Obese Class II
+24,Female,173,0.76,72,124.62,Obese Class III
+25,Female,173,1.46,35,16.38,Moderate Thinness
+51,Female,173,0.76,93,161.05,Obese Class III
+37,Female,173,0.69,89,186.12,Obese Class III
+28,Female,173,1.43,39,19.16,Normal
+31,Female,173,0.26,36,528.66,Obese Class III
+45,Female,173,1.98,56,14.25,Severe Thinness
+24,Female,173,0.58,95,287.32,Obese Class III
+35,Female,173,1.97,93,24.03,Normal
+52,Female,173,0.28,85,1090.17,Obese Class III
+58,Female,173,1.08,99,84.99,Obese Class III
+37,Female,173,1.05,37,33.49,Obese Class I
+57,Female,173,1.25,61,39.02,Obese Class II
+51,Female,173,1.55,97,40.57,Obese Class III
+53,Female,173,1.18,66,47.47,Obese Class III
+21,Female,173,0.35,64,523.28,Obese Class III
+50,Female,173,0.04,99,76675.41,Obese Class III
+28,Female,173,0.53,53,191.35,Obese Class III
+21,Female,173,0.83,109,160.11,Obese Class III
+49,Female,173,0.49,67,282.26,Obese Class III
+29,Female,173,1.95,92,24.2,Normal
+54,Female,173,1.04,77,71.78,Obese Class III
+25,Female,173,0.15,101,4311.34,Obese Class III
+46,Female,173,1.14,78,59.91,Obese Class III
+29,Female,173,1.12,56,44.83,Obese Class III
+29,Female,173,0.47,101,462.51,Obese Class III
+53,Female,173,0.43,72,387.11,Obese Class III
+49,Female,173,1.22,94,63.62,Obese Class III
+43,Female,173,0.1,87,8648.12,Obese Class III
+60,Female,173,0.84,30,42.13,Obese Class III
+36,Female,173,1.05,91,82.67,Obese Class III
+51,Female,173,0.91,30,35.94,Obese Class II
+47,Female,173,1.53,55,23.48,Normal
+35,Female,173,0.52,39,144.61,Obese Class III
+43,Female,173,0.09,85,11437.62,Obese Class III
+35,Female,173,1.31,100,58.58,Obese Class III
+21,Female,173,0.07,71,14404.3,Obese Class III
+28,Female,173,0.64,94,232.51,Obese Class III
+47,Female,173,0.09,94,11520.19,Obese Class III
+54,Female,173,0.58,31,92.51,Obese Class III
+57,Female,173,0.08,90,13733.06,Obese Class III
+48,Female,173,0.04,95,48279.45,Obese Class III
+25,Female,173,1.35,93,50.84,Obese Class III
+57,Female,173,0.76,44,76.74,Obese Class III
+34,Female,173,0.28,110,1399.62,Obese Class III
+47,Female,173,1.69,65,22.8,Normal
+44,Female,173,1.19,104,73.28,Obese Class III
+42,Female,173,0.84,37,52.07,Obese Class III
+23,Female,173,0.5,48,195.08,Obese Class III
+46,Female,173,0.46,87,417.6,Obese Class III
+47,Female,173,1.66,42,15.19,Severe Thinness
+48,Female,173,1.92,104,28.12,Overweight
+55,Female,173,0.73,60,113.05,Obese Class III
+60,Female,173,1.36,30,16.26,Moderate Thinness
+58,Female,173,1.58,66,26.49,Overweight
+24,Female,173,0.21,42,965.44,Obese Class III
+40,Female,173,1.35,48,26.27,Overweight
+21,Female,173,0.93,34,38.91,Obese Class II
+51,Female,173,1.05,107,97.69,Obese Class III
+21,Female,173,1.44,107,51.57,Obese Class III
+34,Female,173,0.59,38,107.79,Obese Class III
+58,Female,173,1.72,56,18.92,Normal
+28,Female,173,1.7,52,18.06,Mild Thinness
+60,Female,173,0.2,61,1489.25,Obese Class III
+35,Female,173,1.73,101,33.8,Obese Class I
+54,Female,173,0.83,75,107.89,Obese Class III
+44,Female,173,1.44,52,24.97,Normal
+32,Female,173,0.13,56,3301.32,Obese Class III
+58,Female,173,0.89,73,91.52,Obese Class III
+38,Female,173,1.85,45,13.14,Severe Thinness
+53,Female,173,0.39,56,372.11,Obese Class III
+21,Female,173,0.56,59,188.55,Obese Class III
+59,Female,173,1.33,71,40.01,Obese Class III
+25,Female,173,1.37,82,43.54,Obese Class III
+55,Female,173,1.11,36,29.21,Overweight
+58,Female,173,0.83,80,115.09,Obese Class III
+34,Female,173,0.79,41,66.23,Obese Class III
+33,Female,173,1.24,86,55.53,Obese Class III
+31,Female,173,1.53,76,32.32,Obese Class I
+42,Female,173,1.28,32,19.6,Normal
+34,Female,173,0.75,98,172.87,Obese Class III
+31,Female,173,0.29,60,702.69,Obese Class III
+19,Female,173,0.15,36,1570.75,Obese Class III
+27,Female,173,0.37,39,278.34,Obese Class III
+55,Female,173,0.99,81,82.71,Obese Class III
+33,Female,173,0.66,86,197.53,Obese Class III
+52,Female,173,0.55,34,113.14,Obese Class III
+27,Female,173,1.04,69,64.22,Obese Class III
+54,Female,173,1.95,48,12.62,Severe Thinness
+56,Female,173,0.61,110,291.39,Obese Class III
+48,Female,173,1.14,60,46.15,Obese Class III
+32,Female,173,0.64,100,241.25,Obese Class III
+49,Female,173,0.63,62,156.1,Obese Class III
+41,Female,173,0.07,62,14003.48,Obese Class III
+32,Female,173,0.65,64,152.99,Obese Class III
+57,Female,173,1.46,44,20.69,Normal
+42,Female,173,0.48,54,236.38,Obese Class III
+53,Female,173,1.06,51,45.74,Obese Class III
+41,Female,173,1.32,80,45.67,Obese Class III
+25,Female,173,1.16,52,38.76,Obese Class II
+46,Female,173,1.8,108,33.42,Obese Class I
+54,Female,173,1.7,76,26.4,Overweight
+31,Female,173,0.34,96,830.07,Obese Class III
+46,Female,173,0.58,85,254.28,Obese Class III
+48,Female,173,1.69,36,12.63,Severe Thinness
+44,Female,173,0.14,38,2013.02,Obese Class III
+53,Female,173,1.78,46,14.58,Severe Thinness
+23,Female,173,1.6,92,36.12,Obese Class II
+42,Female,173,1.36,52,28.19,Overweight
+55,Female,173,0.9,30,37.27,Obese Class II
+48,Female,173,0.31,38,395,Obese Class III
+41,Female,173,1.37,41,21.9,Normal
+28,Female,173,0.45,90,448.92,Obese Class III
+44,Female,173,1.01,82,80.17,Obese Class III
+55,Female,173,1.4,97,49.29,Obese Class III
+60,Female,173,0,89,1125286715,Obese Class III
+27,Female,173,0.28,104,1311.19,Obese Class III
+50,Female,173,1.18,101,72.1,Obese Class III
+18,Female,173,1.35,84,46.27,Obese Class III
+35,Female,173,0.37,93,686.9,Obese Class III
+57,Female,173,1.59,80,31.47,Obese Class I
+59,Female,173,1.23,55,36.58,Obese Class II
+49,Female,173,0.14,72,3650.14,Obese Class III
+58,Female,173,1.83,32,9.56,Severe Thinness
+38,Female,173,0.59,52,151.8,Obese Class III
+33,Female,173,0.41,63,380.1,Obese Class III
+50,Female,173,1.37,70,37.28,Obese Class II
+51,Female,173,1.05,65,58.72,Obese Class III
+21,Female,173,1,83,83.83,Obese Class III
+35,Female,173,1.65,57,20.83,Normal
+54,Female,173,1.66,37,13.42,Severe Thinness
+19,Female,173,0.89,56,70.06,Obese Class III
+47,Female,173,1.49,110,49.6,Obese Class III
+38,Female,173,0.19,86,2301.56,Obese Class III
+33,Female,173,1.97,57,14.71,Severe Thinness
+56,Female,173,0.02,48,84820.2,Obese Class III
+31,Female,173,0.37,96,701.28,Obese Class III
+59,Female,173,1.84,92,27.2,Overweight
+60,Female,173,0.36,30,227.85,Obese Class III
+23,Female,173,0.42,76,428.47,Obese Class III
+22,Female,173,1.55,56,23.22,Normal
+30,Female,173,0.29,104,1260.27,Obese Class III
+53,Female,173,0.15,34,1512.96,Obese Class III
+34,Female,173,1.24,104,68.09,Obese Class III
+27,Female,173,0.26,54,826.81,Obese Class III
+27,Female,173,0.1,80,8359.5,Obese Class III
+45,Female,173,0.72,105,199.89,Obese Class III
+38,Female,173,1.34,36,20.03,Normal
+18,Female,173,1.81,104,31.67,Obese Class I
+21,Female,173,0.73,92,170.42,Obese Class III
+19,Female,173,1.3,49,28.83,Overweight
+33,Female,173,1,102,102.06,Obese Class III
+31,Female,173,1.4,71,36.23,Obese Class II
+28,Female,173,1.34,36,19.91,Normal
+54,Female,173,0.74,40,72.2,Obese Class III
+41,Female,173,0.46,35,166.73,Obese Class III
+38,Female,173,0.47,32,144.15,Obese Class III
+23,Female,173,1.49,101,45.67,Obese Class III
+54,Female,173,1.02,97,92.6,Obese Class III
+31,Female,173,0.2,72,1832.87,Obese Class III
+23,Female,173,0.22,47,956.09,Obese Class III
+25,Female,173,1.58,59,23.66,Normal
+41,Female,173,0.93,62,70.92,Obese Class III
+55,Female,173,1.9,32,8.91,Severe Thinness
+49,Female,173,0.85,70,97.38,Obese Class III
+23,Female,173,0.58,104,309.77,Obese Class III
+56,Female,173,0.14,42,2081.53,Obese Class III
+36,Female,173,1.03,99,93.1,Obese Class III
+26,Female,173,1.43,43,21.17,Normal
+33,Female,173,1.02,34,32.53,Obese Class I
+38,Female,173,0.19,45,1312.43,Obese Class III
+40,Female,173,1.63,52,19.56,Normal
+59,Female,173,1.01,83,81.86,Obese Class III
+23,Female,173,0.52,54,199.3,Obese Class III
+40,Female,173,0.14,90,4446.8,Obese Class III
+46,Female,173,1.08,51,44.13,Obese Class III
+21,Female,173,0.16,103,4020.12,Obese Class III
+41,Female,173,0.09,73,8554.67,Obese Class III
+29,Female,173,1.14,86,66.04,Obese Class III
+53,Female,173,1.88,90,25.49,Overweight
+55,Female,173,1.38,58,30.59,Obese Class I
+57,Female,173,1.69,100,35.1,Obese Class II
+29,Female,173,1.03,51,48.42,Obese Class III
+26,Female,173,1.06,99,88.67,Obese Class III
+26,Female,173,0.13,101,5748.54,Obese Class III
+37,Female,173,0.24,102,1833.97,Obese Class III
+60,Female,173,0.6,32,89.29,Obese Class III
+26,Female,173,1.23,105,68.92,Obese Class III
+35,Female,173,0.28,38,495.85,Obese Class III
+59,Female,173,0.06,107,33648.6,Obese Class III
+29,Female,173,0.83,86,124.68,Obese Class III
+57,Female,173,1.21,77,52.85,Obese Class III
+21,Female,173,1.47,70,32.47,Obese Class I
+18,Female,173,1.97,90,23.09,Normal
+44,Female,173,1.44,91,43.71,Obese Class III
+34,Female,173,1.36,100,53.89,Obese Class III
+38,Female,173,1.58,107,43.09,Obese Class III
+32,Female,173,1.85,64,18.76,Normal
+56,Female,173,1.44,78,37.54,Obese Class II
+38,Female,173,1.11,74,60.13,Obese Class III
+22,Female,173,0,68,349976384.6,Obese Class III
+35,Female,173,0.72,38,73.16,Obese Class III
+32,Female,173,1.04,76,69.85,Obese Class III
+31,Female,173,1.72,66,22.27,Normal
+38,Female,173,1.17,48,34.86,Obese Class I
+50,Female,173,1.69,73,25.65,Overweight
+53,Female,173,0.56,83,267.29,Obese Class III
+37,Female,173,0.68,53,115.67,Obese Class III
+56,Female,173,0.95,64,71.14,Obese Class III
+27,Female,173,0.65,67,158.22,Obese Class III
+40,Female,173,1.27,110,68.04,Obese Class III
+19,Female,173,0.09,53,6274.36,Obese Class III
+57,Female,173,0.38,41,285.57,Obese Class III
+19,Female,173,1.6,86,33.42,Obese Class I
+48,Female,173,1.31,48,28.1,Overweight
+54,Female,173,1.49,86,38.62,Obese Class II
+53,Female,173,1.45,101,47.82,Obese Class III
+35,Female,173,1.38,33,17.21,Mild Thinness
+53,Female,173,1.88,63,17.77,Mild Thinness
+22,Female,173,0.36,35,271.29,Obese Class III
+27,Female,173,1.3,50,29.56,Overweight
+29,Female,173,0.01,47,233427.94,Obese Class III
+18,Female,173,1.45,34,16.07,Moderate Thinness
+33,Female,173,0.57,54,167.1,Obese Class III
+40,Female,173,0.37,98,719.77,Obese Class III
+52,Female,173,1.58,64,25.51,Overweight
+20,Female,173,1,78,78.5,Obese Class III
+46,Female,173,0.48,33,141.62,Obese Class III
+52,Female,173,1.82,40,12.02,Severe Thinness
+48,Female,173,0,36,22980804.2,Obese Class III
+43,Female,173,1.95,53,13.94,Severe Thinness
+53,Female,173,1.63,65,24.52,Normal
+31,Female,173,1.79,83,25.82,Overweight
+27,Female,173,1.15,35,26.61,Overweight
+48,Female,173,0.02,62,259644.31,Obese Class III
+49,Female,173,1.11,80,64.96,Obese Class III
+43,Female,173,0.29,47,542.08,Obese Class III
+54,Female,173,1.06,93,82.76,Obese Class III
+42,Female,173,1.18,62,44.7,Obese Class III
+38,Female,173,0.26,81,1190.73,Obese Class III
+36,Female,173,0.39,102,670.87,Obese Class III
+39,Female,173,1.19,44,31,Obese Class I
+22,Female,173,1.11,94,76.92,Obese Class III
+60,Female,173,0.99,110,112.08,Obese Class III
+59,Female,173,0.78,90,147.45,Obese Class III
+45,Female,173,1.14,75,57.66,Obese Class III
+41,Female,173,0.11,51,4285.13,Obese Class III
+50,Female,173,1.53,69,29.67,Overweight
+59,Female,173,0.54,84,290.21,Obese Class III
+59,Female,173,1.73,90,30.23,Obese Class I
+19,Female,173,1.3,93,55.02,Obese Class III
+37,Female,173,1.23,43,28.52,Overweight
+57,Female,173,0.71,41,80.51,Obese Class III
+49,Female,173,0.66,35,79.53,Obese Class III
+35,Female,173,1.87,109,31.16,Obese Class I
+28,Female,173,0.63,85,212.91,Obese Class III
+57,Female,173,0.06,87,26308.92,Obese Class III
+25,Female,173,0.78,45,73.68,Obese Class III
+30,Female,173,1.82,58,17.46,Mild Thinness
+46,Female,173,1.72,56,18.86,Normal
+33,Female,173,1.35,84,46.07,Obese Class III
+55,Female,173,1.15,92,70.01,Obese Class III
+51,Female,173,0.2,49,1232.84,Obese Class III
+30,Female,173,0.18,54,1742.19,Obese Class III
+47,Female,173,0.42,57,325.09,Obese Class III
+37,Female,173,1.47,36,16.75,Moderate Thinness
+55,Female,173,1,54,53.7,Obese Class III
+34,Female,173,1.21,32,21.82,Normal
+29,Female,173,1.5,98,43.49,Obese Class III
+27,Female,173,0.94,89,101.18,Obese Class III
+51,Female,173,0.29,88,1060.68,Obese Class III
+20,Female,173,1.83,107,31.78,Obese Class I
+27,Female,173,1.25,36,23.05,Normal
+33,Female,173,1.29,63,37.86,Obese Class II
+33,Female,173,1.56,66,27.05,Overweight
+19,Female,173,1.37,46,24.53,Normal
+19,Female,173,1.17,56,40.87,Obese Class III
+52,Female,173,1.28,37,22.72,Normal
+46,Female,173,1.24,102,65.92,Obese Class III
+59,Female,173,1.38,107,56.18,Obese Class III
+41,Female,173,1.13,77,60.17,Obese Class III
+50,Female,173,1.19,109,77.31,Obese Class III
+48,Female,173,0.94,88,98.65,Obese Class III
+28,Female,173,0.04,54,30212.47,Obese Class III
+51,Female,173,1.45,38,18.04,Mild Thinness
+54,Female,173,1.68,30,10.66,Severe Thinness
+60,Female,173,0.23,98,1794.69,Obese Class III
+33,Female,173,0.88,38,49.37,Obese Class III
+51,Female,173,0.2,72,1875.99,Obese Class III
+22,Female,173,0.69,31,64.75,Obese Class III
+52,Female,173,0.79,68,108.17,Obese Class III
+47,Female,173,0.99,40,40.52,Obese Class III
+37,Female,173,0.34,101,858.37,Obese Class III
+52,Female,173,0.49,101,425.33,Obese Class III
+60,Female,173,0.24,72,1246.54,Obese Class III
+56,Female,173,0.63,92,229.87,Obese Class III
+19,Female,173,1.23,35,23.26,Normal
+22,Female,173,0.27,100,1341.05,Obese Class III
+29,Female,173,0.42,82,458.52,Obese Class III
+40,Female,173,1.45,95,45.4,Obese Class III
+32,Female,173,0.54,50,169.1,Obese Class III
+28,Female,173,1.67,99,35.47,Obese Class II
+44,Female,173,1.68,52,18.39,Mild Thinness
+25,Female,173,0.35,40,327.89,Obese Class III
+41,Female,173,0.16,39,1452.7,Obese Class III
+35,Female,173,0.36,35,271.12,Obese Class III
+55,Female,173,0.61,84,227.23,Obese Class III
+53,Female,173,0.36,55,426.49,Obese Class III
+24,Female,173,1.89,63,17.55,Mild Thinness
+48,Female,173,0.68,81,176.54,Obese Class III
+31,Female,173,0.02,105,339044.88,Obese Class III
+47,Female,173,0.15,56,2397.93,Obese Class III
+38,Female,173,1.28,76,46.33,Obese Class III
+60,Female,173,0.83,33,47.5,Obese Class III
+38,Female,173,1.68,94,33.29,Obese Class I
+20,Female,173,1.1,84,69.95,Obese Class III
+60,Female,173,0.6,65,180.9,Obese Class III
+45,Female,173,0.4,79,504.38,Obese Class III
+20,Female,173,0.22,107,2226.38,Obese Class III
+50,Female,173,0.44,95,483.91,Obese Class III
+53,Female,173,0.11,85,7683.74,Obese Class III
+39,Female,173,1.82,74,22.25,Normal
+45,Female,173,0.51,82,309.96,Obese Class III
+33,Female,173,0.37,87,629.96,Obese Class III
+39,Female,173,1.59,110,43.25,Obese Class III
+47,Female,173,0.93,53,61.24,Obese Class III
+58,Female,173,1.71,43,14.7,Severe Thinness
+33,Female,173,1.1,92,76.06,Obese Class III
+57,Female,173,0.16,39,1474.56,Obese Class III
+52,Female,173,1.69,35,12.3,Severe Thinness
+52,Female,173,1.94,59,15.68,Severe Thinness
+55,Female,173,0.91,90,107.94,Obese Class III
+58,Female,173,0.46,36,169.88,Obese Class III
+27,Female,173,0.66,99,227.57,Obese Class III
+25,Female,173,1.52,66,28.66,Overweight
+35,Female,173,1.12,44,35.23,Obese Class II
+53,Female,173,0.54,109,367.29,Obese Class III
+43,Male,173,0.21,66,1496.09,Obese Class III
+46,Male,173,1.34,80,44.8,Obese Class III
+27,Male,173,0.12,41,2758.52,Obese Class III
+27,Male,173,1.76,69,22.23,Normal
+24,Male,173,1.84,64,18.91,Normal
+32,Male,173,0.64,95,231.07,Obese Class III
+26,Male,173,1.1,65,53.77,Obese Class III
+25,Male,173,1.08,106,91.69,Obese Class III
+38,Male,173,0.27,42,595.45,Obese Class III
+28,Male,173,1.59,83,32.66,Obese Class I
+45,Male,173,1.27,79,49.28,Obese Class III
+49,Male,173,1.28,43,26.12,Overweight
+19,Male,173,1.26,32,20.03,Normal
+36,Male,173,1.82,55,16.58,Moderate Thinness
+53,Male,173,1.99,97,24.55,Normal
+27,Male,173,0.6,64,177.51,Obese Class III
+35,Male,173,1.7,60,20.79,Normal
+25,Male,173,0.54,32,108.81,Obese Class III
+27,Male,173,1.2,72,49.96,Obese Class III
+39,Male,173,1.01,86,84.32,Obese Class III
+56,Male,173,0.02,32,52137.17,Obese Class III
+36,Male,173,1.85,103,30.12,Obese Class I
+25,Male,173,0.21,64,1513,Obese Class III
+30,Male,173,1.89,54,15.07,Severe Thinness
+30,Male,173,1.92,94,25.44,Overweight
+59,Male,173,0.95,70,76.89,Obese Class III
+36,Male,173,0.48,31,132.66,Obese Class III
+44,Male,173,0.79,86,138.51,Obese Class III
+27,Male,173,0.14,77,4015.62,Obese Class III
+29,Male,173,0.71,37,74.34,Obese Class III
+58,Male,173,0.69,104,219.21,Obese Class III
+23,Male,173,0.83,45,65.28,Obese Class III
+47,Male,173,0.53,92,332.59,Obese Class III
+32,Male,173,1.62,88,33.63,Obese Class I
+27,Male,173,0.4,87,551.52,Obese Class III
+54,Male,173,1.43,109,53.25,Obese Class III
+54,Male,173,0.7,71,143.94,Obese Class III
+19,Male,173,0.74,98,179.7,Obese Class III
+53,Male,173,1.03,56,53.23,Obese Class III
+52,Male,173,1.23,32,21.3,Normal
+33,Male,173,1.58,43,17.25,Mild Thinness
+48,Male,173,1.26,91,56.88,Obese Class III
+59,Male,173,0.86,64,86.52,Obese Class III
+36,Male,173,0.63,97,247.78,Obese Class III
+30,Male,173,0.83,31,45.43,Obese Class III
+51,Male,173,0.99,108,110.57,Obese Class III
+52,Male,173,1.04,89,82.57,Obese Class III
+24,Male,173,1.71,49,16.67,Moderate Thinness
+46,Male,173,0.14,41,2018.13,Obese Class III
+44,Male,173,0.92,75,88.85,Obese Class III
+20,Male,173,1.24,82,53.74,Obese Class III
+53,Male,173,1.35,42,22.94,Normal
+50,Male,173,0.51,71,277.87,Obese Class III
+46,Male,173,1.9,89,24.63,Normal
+50,Male,173,1.9,101,27.91,Overweight
+27,Male,173,0.09,77,9467.54,Obese Class III
+26,Male,173,1.17,50,36.61,Obese Class II
+26,Male,173,0.02,51,102107.47,Obese Class III
+50,Male,173,1.67,100,35.87,Obese Class II
+56,Male,173,0.6,86,238.94,Obese Class III
+49,Male,173,1.27,84,52.14,Obese Class III
+56,Male,173,0.67,53,118.16,Obese Class III
+54,Male,173,0.56,45,143.17,Obese Class III
+38,Male,173,1.08,65,55.5,Obese Class III
+37,Male,173,0.45,103,514.02,Obese Class III
+26,Male,173,0.41,32,192.42,Obese Class III
+22,Male,173,0.67,43,96.5,Obese Class III
+32,Male,173,0.42,106,599.61,Obese Class III
+42,Male,173,0.31,47,500.18,Obese Class III
+25,Male,173,1.86,40,11.54,Severe Thinness
+56,Male,173,1.93,100,26.88,Overweight
+23,Male,173,0.02,74,168933.58,Obese Class III
+34,Male,173,1.44,86,41.29,Obese Class III
+51,Male,173,0.95,75,83.52,Obese Class III
+34,Male,173,1.23,86,56.75,Obese Class III
+29,Male,173,0.63,65,161.71,Obese Class III
+31,Male,173,0.55,39,130.01,Obese Class III
+57,Male,173,1.22,63,42.43,Obese Class III
+50,Male,173,0.85,84,116.65,Obese Class III
+43,Male,173,1.06,47,41.5,Obese Class III
+30,Male,173,0.88,69,89.57,Obese Class III
+45,Transgender,173,0.84,107,153.32,Obese Class III
+52,Transgender,173,1.9,105,28.95,Overweight
+41,Transgender,173,0.3,108,1218.55,Obese Class III
+51,Transgender,173,1.65,31,11.32,Severe Thinness
+37,Transgender,173,0.23,61,1178.53,Obese Class III
+36,Transgender,173,0.36,91,708.54,Obese Class III
+27,Transgender,173,1.9,66,18.36,Mild Thinness
+46,Transgender,173,1.4,42,21.3,Normal
+23,Transgender,173,1.74,78,25.63,Overweight
+49,Transgender,173,1.75,66,21.46,Normal
+26,Transgender,173,1.24,86,55.82,Obese Class III
+57,Transgender,173,1.26,103,64.83,Obese Class III
+22,Transgender,173,1.6,94,36.91,Obese Class II
+19,Transgender,173,0.57,79,244.11,Obese Class III
+51,Transgender,173,1.8,81,25.03,Overweight
+55,Transgender,173,0.85,96,131.84,Obese Class III
+52,Transgender,173,0.08,46,7700.4,Obese Class III
+23,Transgender,173,1.18,86,62,Obese Class III
+32,Transgender,173,0.49,42,175.65,Obese Class III
+25,Transgender,173,1.9,40,11.1,Severe Thinness
+26,Transgender,173,0.57,45,138.76,Obese Class III
+52,Transgender,173,0.48,61,269.97,Obese Class III
+35,Transgender,173,0.72,31,59.66,Obese Class III
+22,Transgender,173,1.23,30,19.99,Normal
+33,Transgender,173,1.03,56,52.29,Obese Class III
+35,Transgender,173,1.41,71,35.66,Obese Class II
+21,Transgender,173,0.67,34,74.97,Obese Class III
+52,Transgender,173,0.09,39,4712.57,Obese Class III
+18,Transgender,173,1.93,98,26.44,Overweight
+27,Transgender,173,0.71,49,98.04,Obese Class III
+29,Transgender,173,0.84,76,108.28,Obese Class III
+59,Transgender,173,0.02,54,109160.27,Obese Class III
+34,Transgender,173,1.74,58,19.12,Normal
+43,Transgender,173,1.21,100,68.59,Obese Class III
+33,Transgender,173,1.07,86,75.64,Obese Class III
+20,Transgender,173,0.14,79,4182.52,Obese Class III
+33,Transgender,173,1.63,86,32.2,Obese Class I
+23,Transgender,173,1.22,39,26.15,Overweight
+55,Transgender,173,1.8,86,26.55,Overweight
+41,Transgender,173,0.83,37,53.85,Obese Class III
+31,Transgender,173,0.47,50,224.43,Obese Class III
+55,Transgender,173,0.03,108,130299.7,Obese Class III
+55,Transgender,173,0.17,52,1855.6,Obese Class III
+59,Transgender,173,1.77,73,23.23,Normal
+52,Transgender,173,1.91,94,25.71,Overweight
+49,Transgender,173,1.72,79,26.83,Overweight
+45,Transgender,173,1.41,31,15.62,Severe Thinness
+22,Transgender,173,0.43,39,208.29,Obese Class III
+34,Transgender,173,1.08,70,60.19,Obese Class III
+33,Transgender,173,0.76,47,81.59,Obese Class III
+47,Transgender,173,0.53,32,114.65,Obese Class III
+27,Transgender,173,1.31,92,53.24,Obese Class III
+53,Transgender,173,0.17,74,2502.85,Obese Class III
+26,Transgender,173,1.28,104,63.05,Obese Class III
+33,Transgender,173,1.14,106,81.53,Obese Class III
+33,Transgender,173,0.83,41,59.39,Obese Class III
+32,Transgender,173,0.39,110,719.39,Obese Class III
+46,Transgender,173,1.48,54,24.49,Normal
+23,Transgender,173,1.71,49,16.66,Moderate Thinness
+46,Transgender,173,1.79,92,28.87,Overweight
+33,Transgender,173,0.11,73,5538.37,Obese Class III
+34,Transgender,173,0.84,66,94.37,Obese Class III
+51,Transgender,173,1.38,32,16.72,Moderate Thinness
+33,Transgender,173,0.68,105,225.07,Obese Class III
+43,Transgender,173,0.01,69,612817.67,Obese Class III
+59,Transgender,173,1.5,98,43.49,Obese Class III
+26,Transgender,173,1.78,72,22.64,Normal
+31,Transgender,173,1.17,81,59.66,Obese Class III
+40,Transgender,173,0.06,54,14105.21,Obese Class III
+25,Transgender,173,1.52,40,17.38,Mild Thinness
+37,Transgender,173,0.16,57,2182.81,Obese Class III
+49,Transgender,173,1.12,46,36.88,Obese Class II
+51,Transgender,173,1.22,67,45.26,Obese Class III
+29,Transgender,173,1.49,97,43.87,Obese Class III
+29,Transgender,173,0.98,40,41.37,Obese Class III
+58,Transgender,173,1.6,106,41.38,Obese Class III
+52,Transgender,173,1.34,76,42.04,Obese Class III
+59,Transgender,173,1.98,102,26.03,Overweight
+19,Transgender,173,0.42,76,427.48,Obese Class III
+33,Transgender,173,1,66,65.93,Obese Class III
+31,Transgender,173,0.35,100,834.22,Obese Class III
+46,Transgender,173,0.39,93,598.1,Obese Class III
+60,Transgender,173,1.99,107,26.99,Overweight
+32,Transgender,173,1.27,93,57.67,Obese Class III
+23,Transgender,173,0.84,72,100.86,Obese Class III
+49,Transgender,173,0.9,70,87.27,Obese Class III
+56,Transgender,173,1.27,70,43.38,Obese Class III
+53,Transgender,173,1.4,91,46.6,Obese Class III
+20,Transgender,173,0.94,49,55.58,Obese Class III
+40,Transgender,173,1.26,93,58.59,Obese Class III
+41,Transgender,173,0.47,84,376.95,Obese Class III
+35,Transgender,173,0.87,91,120.23,Obese Class III
+37,Transgender,173,1.06,49,43.28,Obese Class III
+25,Transgender,173,0.57,83,259.8,Obese Class III
+37,Transgender,173,1.46,86,40.23,Obese Class III
+52,Transgender,173,0.24,31,545.98,Obese Class III
+23,Transgender,173,1.23,38,25.29,Overweight
+35,Transgender,173,0.66,107,243.34,Obese Class III
+58,Transgender,173,1.83,95,28.4,Overweight
+20,Transgender,173,0.1,70,6830.82,Obese Class III
+55,Transgender,173,0.3,45,495.37,Obese Class III
+37,Transgender,173,0.72,60,115.57,Obese Class III
+23,Transgender,173,1.14,77,59.27,Obese Class III
+29,Transgender,173,1.55,79,33.03,Obese Class I
+18,Transgender,173,0.93,76,87.28,Obese Class III
+30,Transgender,173,1.03,74,69.55,Obese Class III
+19,Transgender,173,1.1,65,54.02,Obese Class III
+39,Transgender,173,1.12,36,28.88,Overweight
+51,Transgender,173,0.61,55,149.32,Obese Class III
+52,Transgender,173,0.41,43,250.85,Obese Class III
+46,Transgender,173,1.29,82,49.14,Obese Class III
+21,Transgender,173,1.18,99,71.38,Obese Class III
+38,Transgender,173,0.17,103,3444.81,Obese Class III
+46,Transgender,173,0.12,30,2004.23,Obese Class III
+52,Transgender,173,0.44,95,499.18,Obese Class III
+53,Transgender,173,1.42,69,34.43,Obese Class I
+27,Transgender,173,0.03,70,62989.46,Obese Class III
+40,Transgender,173,1.38,110,58.15,Obese Class III
+42,Transgender,173,1.52,62,26.79,Overweight
+60,Transgender,173,1.6,97,37.83,Obese Class II
+45,Transgender,173,1.01,94,92.35,Obese Class III
+22,Transgender,173,1.33,86,48.74,Obese Class III
+32,Transgender,173,0.1,63,5816.12,Obese Class III
+22,Transgender,173,1.03,78,72.9,Obese Class III
+52,Transgender,173,0.38,37,250.28,Obese Class III
+50,Transgender,173,0.29,57,670.54,Obese Class III
+26,Transgender,173,0.76,66,113.72,Obese Class III
+50,Transgender,173,0.15,79,3345.61,Obese Class III
+47,Transgender,173,1.05,30,27.46,Overweight
+39,Transgender,173,0.38,81,554.73,Obese Class III
+48,Transgender,173,1.32,30,17.16,Mild Thinness
+43,Transgender,173,0.68,43,92.56,Obese Class III
+35,Transgender,173,1.6,97,37.76,Obese Class II
+22,Transgender,173,1.48,96,43.58,Obese Class III
+24,Transgender,173,0.57,74,229.84,Obese Class III
+46,Transgender,173,1.1,60,49.95,Obese Class III
+58,Transgender,173,0.24,110,1840.97,Obese Class III
+58,Transgender,173,0.2,106,2629.68,Obese Class III
+51,Transgender,173,1.61,37,14.33,Severe Thinness
+25,Transgender,173,0.31,44,452.08,Obese Class III
+32,Transgender,173,0.65,76,181.68,Obese Class III
+28,Transgender,173,0.46,61,284.66,Obese Class III
+23,Transgender,173,1.2,82,56.67,Obese Class III
+41,Transgender,173,0.69,42,88.85,Obese Class III
+23,Transgender,173,0.62,100,264.05,Obese Class III
+59,Transgender,173,1.91,38,10.43,Severe Thinness
+59,Transgender,173,0.46,90,431.73,Obese Class III
+36,Transgender,173,0.21,35,773.3,Obese Class III
+21,Transgender,173,0.06,102,30949.25,Obese Class III
+58,Transgender,173,0.07,55,10240.44,Obese Class III
+30,Transgender,173,0.67,78,175.46,Obese Class III
+55,Transgender,173,0.31,94,993.3,Obese Class III
+22,Transgender,173,1.56,78,31.92,Obese Class I
+34,Transgender,173,0.21,37,817.18,Obese Class III
+53,Transgender,173,1.28,37,22.71,Normal
+20,Transgender,173,0.79,100,160.97,Obese Class III
+58,Transgender,173,1.94,59,15.71,Severe Thinness
+32,Transgender,173,0.72,106,204.71,Obese Class III
+30,Transgender,173,0.86,39,53.31,Obese Class III
+28,Transgender,173,1.94,90,23.87,Normal
+23,Transgender,173,0.68,82,177.48,Obese Class III
+51,Transgender,173,0.48,56,247.69,Obese Class III
+20,Transgender,173,1.7,88,30.36,Obese Class I
+55,Transgender,173,1.82,79,23.87,Normal
+32,Transgender,173,0.09,76,8858.38,Obese Class III
+33,Transgender,173,0.11,60,5005.45,Obese Class III
+35,Transgender,173,0.54,81,274.58,Obese Class III
+47,Transgender,173,0.73,40,75.43,Obese Class III
+29,Transgender,173,0.53,60,211.97,Obese Class III
+18,Transgender,173,1,101,101.73,Obese Class III
+37,Transgender,173,1.49,90,40.72,Obese Class III
+28,Transgender,173,0.7,35,70.64,Obese Class III
+40,Transgender,173,0.67,107,235.98,Obese Class III
+44,Transgender,173,1.97,109,28.15,Overweight
+38,Transgender,173,1.72,75,25.31,Overweight
+27,Transgender,173,0.88,84,107.59,Obese Class III
+42,Transgender,173,1.76,98,31.75,Obese Class I
+58,Transgender,173,0.63,108,271.13,Obese Class III
+31,Transgender,173,0.71,70,139.37,Obese Class III
+45,Transgender,173,1.79,86,26.9,Overweight
+44,Transgender,173,0.39,86,555.07,Obese Class III
+23,Transgender,173,1.1,66,54.71,Obese Class III
+28,Transgender,173,1.61,91,34.9,Obese Class I
+34,Transgender,173,0.39,110,726,Obese Class III
+31,Transgender,173,1.43,103,50.48,Obese Class III
+20,Transgender,173,1.95,72,18.97,Normal
+23,Transgender,173,0.08,36,6115.18,Obese Class III
+51,Transgender,173,1.19,60,42.6,Obese Class III
+39,Transgender,173,0.56,59,188.24,Obese Class III
+36,Transgender,173,0.72,79,153.86,Obese Class III
+47,Transgender,173,1.51,75,32.88,Obese Class I
+46,Transgender,173,0.49,74,311.93,Obese Class III
+52,Transgender,173,0.24,50,845.74,Obese Class III
+38,Transgender,173,1.61,53,20.44,Normal
+44,Transgender,173,0.7,97,198.86,Obese Class III
+26,Transgender,173,0.65,64,153.23,Obese Class III
+46,Transgender,173,0.6,61,171.6,Obese Class III
+27,Transgender,173,1.12,54,43.32,Obese Class III
+42,Transgender,173,1.4,59,30.14,Obese Class I
+20,Transgender,173,0.47,68,303.65,Obese Class III
+18,Transgender,173,0.39,54,360.03,Obese Class III
+24,Transgender,173,1.6,83,32.26,Obese Class I
+34,Transgender,173,1.15,33,24.83,Normal
+47,Transgender,173,1.11,99,80.75,Obese Class III
+39,Transgender,173,0.06,98,24225.4,Obese Class III
+50,Transgender,173,1.63,64,24.2,Normal
+18,Transgender,173,1.23,63,41.75,Obese Class III
+45,Transgender,173,1.46,94,43.9,Obese Class III
+32,Transgender,173,0.74,32,58.51,Obese Class III
+45,Transgender,173,0.29,46,559.62,Obese Class III
+33,Transgender,173,0.38,66,450.97,Obese Class III
+54,Transgender,173,0.89,63,79.6,Obese Class III
+30,Transgender,173,0.21,83,1804.76,Obese Class III
+18,Transgender,173,1.21,99,67.32,Obese Class III
+56,Transgender,173,0.8,99,155.5,Obese Class III
+59,Transgender,173,0.37,80,584.92,Obese Class III
+51,Transgender,173,0.63,97,246.69,Obese Class III
+23,Transgender,173,0.65,39,92.92,Obese Class III
+24,Transgender,173,0.93,65,74.56,Obese Class III
+22,Transgender,173,1.19,40,28.47,Overweight
+19,Transgender,173,0.33,36,325.15,Obese Class III
+19,Transgender,173,1.69,61,21.25,Normal
+57,Transgender,173,0.25,81,1345.14,Obese Class III
+59,Transgender,173,0.97,84,88.95,Obese Class III
+59,Transgender,173,1.1,33,27.08,Overweight
+59,Transgender,173,0.33,82,747.61,Obese Class III
+27,Transgender,173,0.37,54,392.94,Obese Class III
+26,Transgender,173,0.16,67,2642.62,Obese Class III
+22,Transgender,173,0.76,71,122.18,Obese Class III
+37,Transgender,173,1.62,64,24.26,Normal
+38,Transgender,173,0.65,66,158.23,Obese Class III
+49,Transgender,173,0.67,69,153.85,Obese Class III
+38,Transgender,173,1.88,53,15.01,Severe Thinness
+59,Transgender,173,1,100,100.45,Obese Class III
+58,Transgender,173,1.46,109,50.87,Obese Class III
+45,Transgender,173,1.11,46,37.59,Obese Class II
+53,Transgender,173,0.81,99,152.44,Obese Class III
+35,Transgender,173,0.76,55,96.48,Obese Class III
+55,Transgender,173,1.16,51,38,Obese Class II
+28,Transgender,173,0.6,95,265.52,Obese Class III
+49,Transgender,173,1.94,59,15.62,Severe Thinness
+33,Transgender,173,1.84,47,13.95,Severe Thinness
+32,Transgender,173,1.88,76,21.51,Normal
+41,Transgender,173,0.88,86,111.41,Obese Class III
+55,Transgender,173,0.93,48,56.09,Obese Class III
+51,Transgender,173,0.73,97,182.12,Obese Class III
+46,Transgender,173,1.32,70,40.24,Obese Class III
+40,Transgender,173,1.33,77,43.55,Obese Class III
+31,Transgender,173,1.93,110,29.4,Overweight
+25,Transgender,173,1.94,101,26.83,Overweight
+58,Transgender,173,1.5,61,27.07,Overweight
+41,Transgender,173,0.54,80,277.98,Obese Class III
+30,Transgender,173,0.89,44,55.69,Obese Class III
+21,Transgender,173,1.43,32,15.63,Severe Thinness
+53,Transgender,173,0.64,58,142.38,Obese Class III
+60,Transgender,173,1.76,53,17.02,Mild Thinness
+30,Transgender,173,0.17,53,1935.48,Obese Class III
+37,Transgender,173,0.39,100,648.35,Obese Class III
+34,Transgender,173,1.46,53,24.83,Normal
+36,Transgender,173,0.85,62,85.46,Obese Class III
+47,Transgender,173,1.86,108,31.11,Obese Class I
+42,Transgender,173,1.55,106,44.22,Obese Class III
+39,Transgender,173,1.67,34,12.2,Severe Thinness
+53,Transgender,173,1.6,48,18.76,Normal
+36,Transgender,173,1.72,63,21.36,Normal
+52,Transgender,173,0.93,52,60.66,Obese Class III
+24,Transgender,173,0.39,97,642.89,Obese Class III
+28,Transgender,173,1.17,61,44.91,Obese Class III
+37,Transgender,173,0.93,110,125.9,Obese Class III
+59,Transgender,173,0.68,96,205.49,Obese Class III
+55,Transgender,173,0.56,86,275.97,Obese Class III
+25,Transgender,173,0.32,103,1027.21,Obese Class III
+28,Transgender,173,0.61,63,167.35,Obese Class III
+38,Transgender,173,1.52,102,43.97,Obese Class III
+55,Transgender,173,0.5,63,253.87,Obese Class III
+26,Transgender,173,1.03,90,84.28,Obese Class III
+54,Transgender,173,0.04,81,66033.33,Obese Class III
+49,Transgender,173,1.53,43,18.47,Mild Thinness
+19,Transgender,173,0.69,39,81.3,Obese Class III
+45,Transgender,173,1.11,86,69.98,Obese Class III
+60,Transgender,173,0.73,47,87.64,Obese Class III
+24,Transgender,173,1.66,34,12.28,Severe Thinness
+52,Transgender,173,0.96,30,32.72,Obese Class I
+46,Transgender,173,1.1,76,62.92,Obese Class III
+60,Transgender,173,1.64,61,22.61,Normal
+58,Transgender,173,1.31,58,33.72,Obese Class I
+48,Transgender,173,0.39,79,526.67,Obese Class III
+28,Transgender,173,1.19,100,70.45,Obese Class III
+42,Transgender,173,1.58,86,34.56,Obese Class I
+21,Transgender,173,1.56,40,16.41,Moderate Thinness
+60,Transgender,173,1.93,107,28.61,Overweight
+32,Transgender,173,0,67,2834747.25,Obese Class III
+22,Transgender,173,1.36,51,27.66,Overweight
+39,Transgender,173,1.38,57,29.82,Overweight
+54,Transgender,173,0.3,78,855.14,Obese Class III
+55,Transgender,173,1.79,69,21.6,Normal
+46,Transgender,173,0.48,47,204.69,Obese Class III
+20,Transgender,173,1.06,66,58.3,Obese Class III
+56,Transgender,173,1.42,89,44.13,Obese Class III
+42,Transgender,173,1.8,65,20.07,Normal
+26,Transgender,173,0.75,62,110.87,Obese Class III
+48,Transgender,173,0.85,54,75.06,Obese Class III
+21,Transgender,173,1.13,80,63.14,Obese Class III
+36,Transgender,173,1.29,66,39.7,Obese Class II
+39,Transgender,173,0.94,68,76.17,Obese Class III
+33,Transgender,173,0.53,110,391.2,Obese Class III
+26,Transgender,173,0.23,40,778.77,Obese Class III
+29,Transgender,173,1.72,89,30.04,Obese Class I
+20,Transgender,173,1.99,32,8.07,Severe Thinness
+55,Transgender,173,1.35,107,59.07,Obese Class III
+53,Transgender,173,0.8,68,105.98,Obese Class III
+47,Transgender,173,1.24,68,44.55,Obese Class III
+40,Transgender,173,1.61,43,16.68,Moderate Thinness
+27,Transgender,173,1.35,47,25.95,Overweight
+41,Transgender,173,1.76,107,34.56,Obese Class I
+38,Transgender,173,0.27,98,1312.39,Obese Class III
+40,Transgender,173,0.06,57,17961.95,Obese Class III
+34,Transgender,173,0.31,48,501.08,Obese Class III
+18,Transgender,173,0.11,92,8016.05,Obese Class III
+58,Transgender,173,1.71,36,12.27,Severe Thinness
+45,Transgender,173,1.9,43,11.97,Severe Thinness
+49,Transgender,173,0.62,66,174.43,Obese Class III
+58,Transgender,173,0.43,72,385.31,Obese Class III
+27,Transgender,173,1.91,33,9.09,Severe Thinness
+56,Transgender,173,1.62,94,35.66,Obese Class II
+48,Transgender,173,0.76,42,71.81,Obese Class III
+21,Transgender,173,0.94,64,72.35,Obese Class III
+24,Transgender,173,1.72,32,10.86,Severe Thinness
+34,Transgender,173,0.03,36,49041.68,Obese Class III
+48,Transgender,173,1.89,93,26.12,Overweight
+37,Transgender,173,1.51,77,33.8,Obese Class I
+18,Transgender,173,1.75,109,35.76,Obese Class II
+40,Transgender,173,0.08,30,4782.63,Obese Class III
+28,Transgender,173,0.29,84,985.5,Obese Class III
+30,Transgender,173,0.3,90,1024.69,Obese Class III
+24,Transgender,173,1.08,57,48.56,Obese Class III
+30,Transgender,173,1.79,70,21.81,Normal
+57,Transgender,173,0.52,103,379.18,Obese Class III
+45,Transgender,173,0.77,45,75.2,Obese Class III
+50,Transgender,173,1.92,57,15.46,Severe Thinness
+31,Transgender,173,1.05,53,48.02,Obese Class III
+23,Transgender,173,0.65,77,180.25,Obese Class III
+40,Transgender,173,1.98,41,10.41,Severe Thinness
+48,Transgender,173,0.64,99,241.08,Obese Class III
+23,Transgender,173,1.65,107,39.1,Obese Class II
+53,Transgender,173,0.09,60,7763.69,Obese Class III
+33,Transgender,173,1.22,83,55.67,Obese Class III
+48,Transgender,173,0.67,66,146.78,Obese Class III
+19,Transgender,173,1.74,63,20.84,Normal
+52,Transgender,173,1.95,100,26.35,Overweight
+27,Transgender,173,0.3,105,1154.1,Obese Class III
+53,Transgender,173,0.28,56,696.59,Obese Class III
+34,Transgender,173,1.89,71,19.79,Normal
+48,Transgender,173,1.75,87,28.39,Overweight
+22,Transgender,173,0.25,66,1029.97,Obese Class III
+54,Transgender,173,1.67,98,35.3,Obese Class II
+47,Transgender,173,1.71,72,24.58,Normal
+53,Transgender,173,1.26,60,38.08,Obese Class II
+28,Transgender,173,1.99,37,9.38,Severe Thinness
+21,Transgender,173,0.62,43,112.33,Obese Class III
+19,Transgender,173,0.21,40,922.28,Obese Class III
+48,Transgender,173,0.4,58,364.93,Obese Class III
+20,Transgender,173,1.12,36,28.73,Overweight
+46,Transgender,173,1.81,83,25.38,Overweight
+50,Transgender,173,0.26,106,1536.37,Obese Class III
+40,Transgender,173,0.43,87,463.11,Obese Class III
+52,Transgender,173,0.18,70,2068.21,Obese Class III
+57,Transgender,173,0.33,81,742.6,Obese Class III
+22,Transgender,173,0.42,102,573.76,Obese Class III
+42,Transgender,173,0.28,44,551.68,Obese Class III
+59,Transgender,173,1.27,62,38.46,Obese Class II
+20,Transgender,173,1.48,83,37.96,Obese Class II
+58,Transgender,173,1.84,66,19.59,Normal
+24,Transgender,173,1.89,63,17.71,Mild Thinness
+43,Transgender,173,1.25,74,47.05,Obese Class III
+20,Transgender,173,0.43,66,357.26,Obese Class III
+46,Transgender,173,0.79,81,131.1,Obese Class III
+45,Transgender,173,1.37,55,29.52,Overweight
+27,Transgender,173,1.26,74,46.54,Obese Class III
+29,Transgender,173,0.83,48,70.48,Obese Class III
+44,Transgender,173,1.97,90,23.22,Normal
+25,Transgender,173,1.03,36,34.13,Obese Class I
+47,Transgender,173,1.73,76,25.47,Overweight
+25,Transgender,173,1.25,30,19.07,Normal
+51,Transgender,173,0.86,58,78.53,Obese Class III
+44,Transgender,173,0.98,74,77.77,Obese Class III
+19,Transgender,173,1.81,107,32.58,Obese Class I
+24,Transgender,173,1.99,41,10.4,Severe Thinness
+56,Transgender,173,1.6,103,40.47,Obese Class III
+39,Transgender,173,0.78,75,123.59,Obese Class III
+26,Transgender,173,1.22,75,50.35,Obese Class III
+47,Transgender,173,1.68,39,13.85,Severe Thinness
+26,Transgender,173,1.88,49,13.9,Severe Thinness
+18,Transgender,173,0.53,72,258.65,Obese Class III
+52,Transgender,173,1.25,43,27.64,Overweight
+45,Transgender,173,1.94,65,17.35,Mild Thinness
+32,Transgender,173,0.76,72,124.69,Obese Class III
+56,Transgender,173,1.71,67,22.86,Normal
+37,Transgender,173,1.47,75,34.82,Obese Class I
+59,Transgender,173,1.89,56,15.72,Severe Thinness
+39,Transgender,173,1.64,92,34.38,Obese Class I
+37,Transgender,173,0.1,54,5777.33,Obese Class III
+59,Transgender,173,0.66,82,190.45,Obese Class III
+26,Transgender,173,1.39,59,30.59,Obese Class I
+41,Transgender,173,1.02,64,61.15,Obese Class III
+50,Transgender,173,1.89,63,17.55,Mild Thinness
+34,Transgender,173,1.82,47,14.23,Severe Thinness
+35,Transgender,173,1.68,102,36.22,Obese Class II
+50,Transgender,173,1.77,42,13.38,Severe Thinness
+60,Transgender,173,0.65,91,217.03,Obese Class III
+58,Transgender,173,0.05,63,29717.36,Obese Class III
+19,Transgender,173,1.92,31,8.38,Severe Thinness
+19,Transgender,173,1.58,32,12.74,Severe Thinness
+43,Transgender,173,1.76,99,32.08,Obese Class I
+22,Transgender,173,0.87,97,127.27,Obese Class III
+45,Transgender,173,0.3,84,918.56,Obese Class III
+24,Transgender,173,1.6,91,35.44,Obese Class II
+56,Transgender,173,0,41,2122875.95,Obese Class III
+31,Transgender,173,0.4,80,489.69,Obese Class III
+27,Transgender,173,0.49,89,369.58,Obese Class III
+35,Transgender,173,0.14,36,1906.99,Obese Class III
+55,Transgender,173,0.62,103,266.56,Obese Class III
+51,Transgender,173,1.63,57,21.53,Normal
+46,Transgender,173,0.54,102,343.72,Obese Class III
+33,Transgender,173,0.39,50,333.61,Obese Class III
+60,Transgender,173,0.52,84,306.88,Obese Class III
+42,Transgender,173,1.2,40,27.95,Overweight
+51,Transgender,173,1.52,72,31.02,Obese Class I
+51,Transgender,173,0.62,108,280.57,Obese Class III
+42,Transgender,173,1.79,52,16.18,Moderate Thinness
+43,Transgender,173,0.12,97,6240.08,Obese Class III
+58,Transgender,173,0.14,88,4711.33,Obese Class III
+32,Transgender,173,0.15,63,2641.37,Obese Class III
+55,Transgender,173,1.67,38,13.58,Severe Thinness
+23,Transgender,173,1.21,65,44.34,Obese Class III
+31,Transgender,173,1.6,67,26.05,Overweight
+28,Transgender,173,1.87,108,31.01,Obese Class I
+32,Transgender,173,0.22,57,1165.3,Obese Class III
+47,Transgender,173,1.87,65,18.62,Normal
+22,Transgender,173,0.29,37,452.34,Obese Class III
+24,Transgender,173,1.76,37,12,Severe Thinness
+55,Transgender,173,0.05,88,30058.59,Obese Class III
+19,Transgender,173,0.84,33,47.13,Obese Class III
+49,Transgender,173,0.79,110,175.8,Obese Class III
+33,Transgender,173,0.36,52,400.4,Obese Class III
+42,Transgender,173,0.15,37,1739.34,Obese Class III
+34,Transgender,173,0.77,37,62.45,Obese Class III
+45,Transgender,173,0.54,62,212.43,Obese Class III
+39,Transgender,173,0.69,87,181.25,Obese Class III
+48,Transgender,173,0.84,88,125.05,Obese Class III
+49,Transgender,173,0.44,49,254.29,Obese Class III
+40,Transgender,173,0.99,54,54.7,Obese Class III
+29,Transgender,173,0.99,104,105.3,Obese Class III
+27,Transgender,173,0.64,63,152.85,Obese Class III
+36,Transgender,173,0.54,84,287.66,Obese Class III
+49,Transgender,173,0.55,90,301.44,Obese Class III
+34,Transgender,173,1.19,51,35.74,Obese Class II
+29,Transgender,173,1.64,70,25.87,Overweight
+49,Transgender,173,0.12,97,7236.63,Obese Class III
+19,Transgender,173,0.06,46,10919.86,Obese Class III
+47,Transgender,173,0.03,46,62105.3,Obese Class III
+19,Transgender,173,0.8,46,71.85,Obese Class III
+21,Transgender,173,0.4,102,640.72,Obese Class III
+30,Transgender,173,1.05,92,83.81,Obese Class III
+45,Transgender,173,0.71,99,194.28,Obese Class III
+33,Transgender,173,1.72,33,11.22,Severe Thinness
+33,Transgender,173,1.66,68,24.73,Normal
+58,Transgender,173,0.22,70,1478.51,Obese Class III
+37,Transgender,173,0.77,86,145.28,Obese Class III
+53,Transgender,173,0.78,61,100.75,Obese Class III
+57,Transgender,173,1.57,39,15.78,Severe Thinness
+59,Transgender,173,0.63,69,172.43,Obese Class III
+31,Transgender,173,1.77,103,32.98,Obese Class I
+52,Transgender,173,1.91,72,19.68,Normal
+34,Transgender,173,0.49,70,293.51,Obese Class III
+24,Transgender,173,1.73,108,35.98,Obese Class II
+28,Transgender,173,0.79,98,158.99,Obese Class III
+42,Transgender,173,0.11,31,2455.29,Obese Class III
+52,Transgender,173,1.66,96,34.87,Obese Class I
+50,Transgender,173,1.08,97,83.37,Obese Class III
+37,Transgender,173,1.03,42,39.41,Obese Class II
+18,Transgender,173,0.86,63,84.47,Obese Class III
+51,Transgender,173,0.86,46,61.78,Obese Class III
+60,Transgender,173,1.44,96,46.17,Obese Class III
+22,Transgender,173,0.17,44,1456.6,Obese Class III
+43,Transgender,173,0.01,64,647991.32,Obese Class III
+39,Transgender,173,0.58,39,116.65,Obese Class III
+29,Transgender,173,1.75,74,24.19,Normal
+25,Transgender,173,1.85,79,23.05,Normal
+26,Transgender,173,1.89,66,18.41,Mild Thinness
+48,Transgender,173,0.29,35,406.45,Obese Class III
+29,Transgender,173,0.61,91,242.23,Obese Class III
+50,Transgender,173,1.49,40,17.98,Mild Thinness
+34,Transgender,173,1.61,64,24.57,Normal
+49,Transgender,173,1.23,86,57,Obese Class III
+29,Transgender,173,0.72,83,160.14,Obese Class III
+22,Transgender,173,0.14,36,1749.57,Obese Class III
+41,Transgender,173,0.57,57,178.55,Obese Class III
+58,Transgender,173,0.34,68,584.26,Obese Class III
+47,Transgender,173,1.28,106,64.75,Obese Class III
+49,Transgender,173,1.17,44,32.06,Obese Class I
+29,Transgender,173,1.96,61,15.93,Severe Thinness
+36,Transgender,173,0.67,57,128.23,Obese Class III
+51,Transgender,173,1.19,65,45.6,Obese Class III
+19,Transgender,173,0.34,65,567.16,Obese Class III
+43,Transgender,173,0.52,82,299.39,Obese Class III
+49,Transgender,173,1.96,62,16.06,Moderate Thinness
+31,Transgender,173,0.92,31,36.42,Obese Class II
+21,Transgender,173,0.25,99,1609.17,Obese Class III
+26,Transgender,173,0.16,97,3823.46,Obese Class III
+58,Transgender,173,1.59,35,13.89,Severe Thinness
+54,Transgender,173,0.07,83,19306.92,Obese Class III
+42,Transgender,173,0.4,95,599.79,Obese Class III
+58,Transgender,173,0.75,78,137.59,Obese Class III
+38,Transgender,173,1.27,58,36.07,Obese Class II
+42,Transgender,173,1.84,53,15.71,Severe Thinness
+24,Transgender,173,1.23,39,25.64,Overweight
+48,Transgender,173,1.17,44,32.06,Obese Class I
+46,Transgender,173,1.44,61,29.49,Overweight
+28,Transgender,173,0.81,58,89.18,Obese Class III
+47,Transgender,173,0.52,109,408.6,Obese Class III
+18,Transgender,173,1.28,90,54.67,Obese Class III
+37,Transgender,173,1.56,109,45.02,Obese Class III
+24,Transgender,173,0.27,80,1071.68,Obese Class III
+25,Transgender,173,0.72,43,82.23,Obese Class III
+48,Transgender,173,0.18,56,1669.52,Obese Class III
+60,Transgender,173,1.5,66,29.3,Overweight
+20,Transgender,173,1.69,78,27.17,Overweight
+31,Transgender,173,0.81,46,70.48,Obese Class III
+53,Transgender,173,1.69,32,11.19,Severe Thinness
+37,Transgender,173,1.36,80,43.1,Obese Class III
+33,Transgender,173,0.56,48,154.53,Obese Class III
+48,Transgender,173,1.76,69,22.17,Normal
+33,Transgender,173,1.29,92,55.33,Obese Class III
+23,Transgender,173,0.04,49,38561.98,Obese Class III
+28,Transgender,173,0.09,96,12936.61,Obese Class III
+44,Transgender,173,1.88,31,8.81,Severe Thinness
+42,Transgender,173,0.88,70,89.75,Obese Class III
+48,Transgender,173,1.55,102,42.46,Obese Class III
+29,Transgender,173,1.51,31,13.57,Severe Thinness
+56,Transgender,173,0.14,30,1573.18,Obese Class III
+54,Transgender,173,1.49,85,38.4,Obese Class II
+25,Transgender,173,0.7,84,171.42,Obese Class III
+46,Transgender,173,1.14,108,82.8,Obese Class III
+54,Transgender,173,0.79,32,51.25,Obese Class III
+38,Transgender,173,0.09,96,11938.22,Obese Class III
+57,Transgender,173,1.88,96,27.02,Overweight
+46,Transgender,173,1.6,100,39.02,Obese Class II
+53,Transgender,173,0.72,73,142.58,Obese Class III
+37,Transgender,173,1.69,39,13.73,Severe Thinness
+43,Transgender,173,1.68,52,18.51,Normal
+46,Transgender,173,0.96,51,55.71,Obese Class III
+50,Transgender,173,0.38,67,474.97,Obese Class III
+24,Transgender,173,1.99,43,10.87,Severe Thinness
+40,Transgender,173,0.86,94,128.02,Obese Class III
+56,Transgender,173,0.54,100,344.3,Obese Class III
+20,Transgender,173,1.56,103,42.39,Obese Class III
+47,Transgender,173,0.78,79,129.16,Obese Class III
+43,Transgender,173,0.39,84,542.58,Obese Class III
+53,Transgender,173,1.08,43,36.71,Obese Class II
+45,Transgender,173,0.41,55,328.36,Obese Class III
+21,Transgender,173,1.27,108,66.51,Obese Class III
+31,Transgender,173,0.32,59,593.63,Obese Class III
+38,Transgender,173,0.62,92,241.62,Obese Class III
+34,Transgender,173,0.21,94,2165.73,Obese Class III
+55,Transgender,173,1.1,53,43.7,Obese Class III
+51,Transgender,173,0.36,61,472.79,Obese Class III
+19,Transgender,173,1.41,44,22.05,Normal
+53,Transgender,173,1.62,97,36.9,Obese Class II
+44,Transgender,173,1.8,108,33.28,Obese Class I
+28,Transgender,173,1.34,93,52.08,Obese Class III
+40,Transgender,173,1.93,72,19.38,Normal
+55,Transgender,173,0.96,47,50.55,Obese Class III
+26,Transgender,173,1.48,70,32.17,Obese Class I
+25,Transgender,173,1.17,101,73.47,Obese Class III
+50,Transgender,173,1.41,43,21.51,Normal
+43,Transgender,173,1.64,77,28.76,Overweight
+24,Transgender,173,1.1,82,68.27,Obese Class III
+19,Transgender,173,0.18,78,2395.24,Obese Class III
+47,Transgender,173,0.52,79,295.08,Obese Class III
+41,Transgender,173,0.28,71,925.81,Obese Class III
+24,Transgender,173,1.7,94,32.68,Obese Class I
+43,Transgender,173,1.65,37,13.6,Severe Thinness
+40,Transgender,173,0.87,73,96.41,Obese Class III
+22,Transgender,173,0.44,57,300.59,Obese Class III
+49,Transgender,173,1.9,44,12.13,Severe Thinness
+38,Transgender,173,1.73,33,11.01,Severe Thinness
+56,Transgender,173,0.78,59,97.13,Obese Class III
+33,Transgender,173,0.74,60,108.51,Obese Class III
+42,Transgender,173,0.86,36,48.33,Obese Class III
+41,Transgender,173,1.54,64,27,Overweight
+29,Transgender,173,1.59,68,27.01,Overweight
+56,Transgender,173,0.82,81,121.59,Obese Class III
+33,Transgender,173,1.27,40,24.75,Normal
+18,Transgender,173,0.22,62,1256.38,Obese Class III
+57,Transgender,173,1.14,53,40.79,Obese Class III
+47,Transgender,173,0.41,31,187.92,Obese Class III
+59,Transgender,173,1.83,39,11.58,Severe Thinness
+43,Transgender,173,1.54,75,31.62,Obese Class I
+31,Transgender,173,1.29,44,26.47,Overweight
+57,Transgender,173,0.85,94,128.74,Obese Class III
+23,Transgender,173,1.85,93,27.05,Overweight
+36,Transgender,173,1.83,110,32.76,Obese Class I
+52,Transgender,173,0.31,102,1068.22,Obese Class III
+26,Transgender,173,0.38,108,765.22,Obese Class III
+43,Transgender,173,0.44,109,573.74,Obese Class III
+47,Transgender,173,0.19,64,1722.81,Obese Class III
+52,Transgender,173,1.26,95,60.31,Obese Class III
+27,Transgender,173,0.76,63,110.03,Obese Class III
+24,Transgender,173,0.04,74,56045.82,Obese Class III
+39,Transgender,173,0.02,84,216409.33,Obese Class III
+60,Transgender,173,0.43,67,361.24,Obese Class III
+34,Transgender,173,1.65,109,40.18,Obese Class III
+56,Transgender,173,1.72,84,28.55,Overweight
+36,Transgender,173,0.55,94,308.07,Obese Class III
+55,Transgender,173,0.71,63,124.92,Obese Class III
+35,Transgender,173,0.79,109,173,Obese Class III
+37,Transgender,173,0.41,65,380.66,Obese Class III
+26,Transgender,173,1.39,66,33.92,Obese Class I
+35,Transgender,173,0.32,88,853.09,Obese Class III
+32,Transgender,173,0.11,53,4487.29,Obese Class III
+33,Transgender,173,1.87,99,28.31,Overweight
+39,Transgender,173,0.25,105,1649.74,Obese Class III
+37,Transgender,173,1.9,48,13.26,Severe Thinness
+54,Transgender,173,1.95,98,25.86,Overweight
+36,Transgender,173,0.09,86,11021.21,Obese Class III
+48,Transgender,173,1.69,67,23.55,Normal
+41,Transgender,173,1.61,50,19.36,Normal
+52,Transgender,173,0.24,94,1589.96,Obese Class III
+53,Transgender,173,1.65,69,25.2,Overweight
+36,Transgender,173,0.93,89,102.05,Obese Class III
+24,Transgender,173,1.37,61,32.31,Obese Class I
+40,Transgender,173,1.19,82,58.39,Obese Class III
+36,Transgender,173,1.07,50,43.38,Obese Class III
+60,Transgender,173,0.69,34,71.09,Obese Class III
+58,Transgender,173,1.21,45,30.53,Obese Class I
+59,Transgender,173,1.81,43,13.16,Severe Thinness
+59,Transgender,173,0.12,41,3013.27,Obese Class III
+45,Transgender,173,0.08,94,13758.79,Obese Class III
+25,Transgender,173,0.92,92,109.08,Obese Class III
+31,Transgender,173,0.38,59,407.05,Obese Class III
+58,Transgender,173,1.01,38,36.99,Obese Class II
+46,Transgender,173,1.91,77,21.03,Normal
+57,Transgender,173,1.11,56,45.32,Obese Class III
+60,Transgender,173,1.08,36,31.1,Obese Class I
+22,Transgender,173,1.09,55,46.55,Obese Class III
+54,Transgender,173,0.57,99,308.62,Obese Class III
+40,Transgender,173,0.32,93,904.86,Obese Class III
+23,Transgender,173,1.8,109,33.7,Obese Class I
+26,Transgender,173,0.39,39,258.8,Obese Class III
+39,Transgender,173,1.18,34,24.58,Normal
+33,Transgender,173,0.88,51,66.45,Obese Class III
+27,Transgender,173,1.25,82,52.12,Obese Class III
+49,Transgender,173,0.14,85,4650.58,Obese Class III
+20,Transgender,173,1.18,100,72.21,Obese Class III
+49,Transgender,173,0.97,61,65.24,Obese Class III
+35,Transgender,173,0.41,47,284.47,Obese Class III
+21,Transgender,173,1.9,67,18.5,Normal
+50,Transgender,173,0.07,50,8906.87,Obese Class III
+33,Transgender,173,1.98,46,11.75,Severe Thinness
+28,Transgender,173,0.6,71,199.32,Obese Class III
+34,Transgender,173,0.48,86,368.18,Obese Class III
+39,Transgender,173,0.09,44,5705.23,Obese Class III
+33,Transgender,173,1.29,91,54.75,Obese Class III
+20,Transgender,173,0.67,80,180.04,Obese Class III
+30,Transgender,173,1.04,75,69.21,Obese Class III
+31,Transgender,173,0.85,40,55.44,Obese Class III
+53,Transgender,173,1.79,76,23.8,Normal
+22,Transgender,173,0.2,53,1335.19,Obese Class III
+53,Transgender,173,1.42,71,35.02,Obese Class II
+40,Transgender,173,1.33,103,58.1,Obese Class III
+41,Transgender,173,0.12,79,5096.09,Obese Class III
+30,Transgender,173,0.94,103,116.51,Obese Class III
+27,Transgender,173,0.36,71,538.14,Obese Class III
+39,Transgender,173,0.46,69,322.7,Obese Class III
+38,Transgender,173,0.06,69,21850.71,Obese Class III
+33,Transgender,173,1.49,96,43.35,Obese Class III
+18,Transgender,173,0.14,54,2937.27,Obese Class III
+21,Transgender,173,0.37,61,454.29,Obese Class III
+56,Transgender,173,0.83,110,160.61,Obese Class III
+23,Transgender,173,0.08,48,7109.66,Obese Class III
+55,Transgender,173,0.89,49,62.37,Obese Class III
+51,Transgender,173,0.79,88,142.46,Obese Class III
+46,Transgender,173,1.91,65,17.87,Mild Thinness
+52,Transgender,173,1.13,86,67.82,Obese Class III
+56,Transgender,173,1.44,81,38.8,Obese Class II
+22,Transgender,173,0.47,57,262.57,Obese Class III
+46,Transgender,173,0.76,108,188.44,Obese Class III
+32,Transgender,173,1.8,38,11.79,Severe Thinness
+54,Transgender,173,0.28,33,435.31,Obese Class III
+53,Transgender,173,0.63,62,158.4,Obese Class III
+18,Transgender,173,1.93,78,20.93,Normal
+28,Transgender,173,1.08,98,83.61,Obese Class III
+53,Transgender,173,1.49,98,43.94,Obese Class III
+54,Transgender,173,1.57,100,40.62,Obese Class III
+54,Transgender,173,1.91,99,27.03,Overweight
+56,Transgender,173,1.28,40,24.52,Normal
+37,Transgender,173,1.71,31,10.65,Severe Thinness
+39,Transgender,173,1.26,58,36.28,Obese Class II
+29,Transgender,173,0.49,72,300.2,Obese Class III
+34,Transgender,173,1.59,102,40.51,Obese Class III
+60,Transgender,173,0.1,101,10813.61,Obese Class III
+45,Transgender,173,0.47,92,412.99,Obese Class III
+38,Transgender,173,0.2,106,2600.31,Obese Class III
+35,Transgender,173,1.57,60,24.47,Normal
+57,Transgender,173,0.2,51,1261.49,Obese Class III
+20,Transgender,173,1.15,92,69.11,Obese Class III
+38,Transgender,173,0.12,64,4753.99,Obese Class III
+30,Transgender,173,0.45,46,223.97,Obese Class III
+34,Transgender,173,1.46,75,35.24,Obese Class II
+37,Transgender,173,0.79,109,174.4,Obese Class III
+58,Transgender,173,0.86,35,47.58,Obese Class III
+44,Transgender,173,0.1,105,10390.21,Obese Class III
+20,Transgender,173,1.74,77,25.52,Overweight
+24,Transgender,173,0.88,33,42.9,Obese Class III
+40,Transgender,173,0.37,88,655.83,Obese Class III
+49,Transgender,173,0.91,31,37.25,Obese Class II
+27,Transgender,173,0.75,43,76.86,Obese Class III
+19,Transgender,173,1.12,78,62.63,Obese Class III
+35,Transgender,173,0.54,97,332.32,Obese Class III
+52,Transgender,173,1.42,107,53.41,Obese Class III
+54,Transgender,173,1.64,103,38.42,Obese Class II
+27,Transgender,173,1.17,79,57.45,Obese Class III
+54,Transgender,173,1.05,35,31.97,Obese Class I
+28,Transgender,173,1.2,34,23.6,Normal
+24,Transgender,173,1.52,31,13.36,Severe Thinness
+22,Transgender,173,0.51,106,408.58,Obese Class III
+18,Transgender,173,1.41,61,30.66,Obese Class I
+51,Transgender,173,1.99,109,27.49,Overweight
+57,Transgender,173,0.99,39,39.5,Obese Class II
+35,Transgender,173,1.32,40,23.08,Normal
+54,Transgender,173,0.89,30,38.22,Obese Class II
+25,Transgender,173,1.23,37,24.32,Normal
+57,Transgender,173,0.91,32,38.5,Obese Class II
+56,Transgender,173,1.08,96,82.08,Obese Class III
+55,Transgender,173,1.35,97,53.19,Obese Class III
+35,Transgender,173,1.57,105,42.62,Obese Class III
+50,Transgender,173,0.82,48,70.58,Obese Class III
+19,Transgender,173,1.75,95,31.13,Obese Class I
+49,Transgender,173,0.4,87,540.8,Obese Class III
+52,Transgender,173,0.93,54,62.88,Obese Class III
+58,Transgender,173,0.15,50,2348.45,Obese Class III
+18,Transgender,173,1.6,71,27.67,Overweight
+54,Transgender,173,0.69,97,204.64,Obese Class III
+35,Transgender,173,0.05,60,20533.47,Obese Class III
+31,Transgender,173,1.31,69,39.92,Obese Class II
+51,Transgender,173,0.45,56,274.51,Obese Class III
+41,Transgender,173,1.03,63,59.09,Obese Class III
+53,Transgender,173,1.93,51,13.74,Severe Thinness
+60,Transgender,173,1.64,30,11.19,Severe Thinness
+21,Transgender,173,1.36,68,36.96,Obese Class II
+60,Transgender,173,1.57,42,16.98,Moderate Thinness
+34,Transgender,173,0.81,103,158.23,Obese Class III
+45,Transgender,173,1.74,67,22.11,Normal
+60,Transgender,173,0.23,61,1197.13,Obese Class III
+36,Transgender,173,0.74,94,171.35,Obese Class III
+31,Transgender,173,1.81,85,25.85,Overweight
+34,Transgender,173,1.89,36,10.11,Severe Thinness
+40,Transgender,173,1.56,99,40.91,Obese Class III
+46,Transgender,173,0.12,107,7240.17,Obese Class III
+50,Transgender,173,0.22,103,2174.33,Obese Class III
+56,Transgender,173,0.1,46,4548.07,Obese Class III
+37,Transgender,173,0.83,100,144.95,Obese Class III
+57,Transgender,173,0.59,64,185.92,Obese Class III
+49,Transgender,173,1.28,75,45.74,Obese Class III
+46,Transgender,173,0.72,53,102.18,Obese Class III
+29,Transgender,173,0.33,58,546.67,Obese Class III
+53,Transgender,173,1.44,47,22.81,Normal
+21,Transgender,173,1.32,77,44.39,Obese Class III
+51,Transgender,173,1.37,103,54.62,Obese Class III
+60,Transgender,173,1.5,99,44.24,Obese Class III
+43,Transgender,173,1.4,43,21.95,Normal
+38,Transgender,173,0.24,91,1520.7,Obese Class III
+35,Transgender,173,0.81,86,129.6,Obese Class III
+54,Transgender,173,0.18,110,3240.02,Obese Class III
+44,Transgender,173,0.61,110,297.7,Obese Class III
+29,Transgender,173,1.84,52,15.37,Severe Thinness
+53,Transgender,173,1.56,95,39.01,Obese Class II
+60,Transgender,173,1.59,41,16.24,Moderate Thinness
+24,Transgender,173,0.27,107,1486.94,Obese Class III
+18,Transgender,173,1.66,44,16,Moderate Thinness
+27,Transgender,173,0.29,87,1027.83,Obese Class III
+21,Transgender,173,0.47,66,299.32,Obese Class III
+27,Transgender,173,1.82,89,26.97,Overweight
+43,Transgender,173,0.07,60,14053.23,Obese Class III
+58,Transgender,173,0.97,52,55.36,Obese Class III
+24,Transgender,173,0.39,44,289.06,Obese Class III
+58,Transgender,173,1.75,59,19.29,Normal
+37,Transgender,173,1.21,88,60.03,Obese Class III
+25,Transgender,173,1.98,52,13.27,Severe Thinness
+40,Transgender,173,0.35,88,702.3,Obese Class III
+42,Transgender,173,0.57,59,180.05,Obese Class III
+24,Transgender,173,0.53,53,189.61,Obese Class III
+25,Transgender,173,1.7,110,37.99,Obese Class II
+19,Transgender,173,0.83,42,61.08,Obese Class III
+32,Transgender,173,1.94,38,10.14,Severe Thinness
+54,Transgender,173,0.67,108,241.87,Obese Class III
+19,Transgender,173,0.63,30,75.73,Obese Class III
+24,Transgender,173,1.92,78,21.23,Normal
+43,Transgender,173,0.3,94,1038.51,Obese Class III
+34,Transgender,173,0.4,31,196.16,Obese Class III
+25,Transgender,173,0.79,35,56.21,Obese Class III
+20,Transgender,173,1.34,30,16.79,Moderate Thinness
+39,Transgender,173,1.06,72,63.8,Obese Class III
+49,Transgender,173,1.88,92,26.1,Overweight
+22,Transgender,173,1.78,48,15.07,Severe Thinness
+35,Transgender,173,1.22,87,58.39,Obese Class III
+48,Transgender,173,0.06,71,20840.52,Obese Class III
+58,Transgender,173,0.37,65,479.72,Obese Class III
+40,Transgender,173,0.45,102,513.81,Obese Class III
+26,Transgender,173,0.41,33,192.03,Obese Class III
+52,Transgender,173,0,88,4443695.48,Obese Class III
+18,Transgender,173,1.11,91,73.37,Obese Class III
+24,Transgender,173,1.21,52,35.29,Obese Class II
+54,Transgender,173,0.89,47,59.72,Obese Class III
+38,Transgender,173,0.65,54,129.76,Obese Class III
+36,Transgender,173,1.88,44,12.39,Severe Thinness
+35,Transgender,173,0.29,73,892.24,Obese Class III
+46,Transgender,173,1.35,51,27.82,Overweight
+57,Transgender,173,1.77,66,20.98,Normal
+21,Transgender,173,0.62,89,228.89,Obese Class III
+56,Transgender,173,1.48,103,47.33,Obese Class III
+53,Transgender,173,1.23,70,46.16,Obese Class III
+47,Transgender,173,0.45,54,270.78,Obese Class III
+22,Transgender,173,1.75,66,21.62,Normal
+34,Transgender,173,1.7,103,35.73,Obese Class II
+55,Transgender,173,0.64,58,141.31,Obese Class III
+34,Transgender,173,1.09,70,58.81,Obese Class III
+58,Transgender,173,1.99,80,20.16,Normal
+25,Transgender,173,0.81,104,160.03,Obese Class III
+20,Transgender,173,1.26,45,28.4,Overweight
+25,Transgender,173,1.11,62,50.3,Obese Class III
+49,Transgender,173,1.34,81,44.85,Obese Class III
+52,Transgender,173,1.66,73,26.41,Overweight
+38,Transgender,173,0.84,86,121.15,Obese Class III
+60,Transgender,173,0.41,101,593.2,Obese Class III
+58,Transgender,173,1.32,104,59.61,Obese Class III
+60,Transgender,173,1.62,69,26.38,Overweight
+55,Transgender,173,1.06,98,87.82,Obese Class III
+54,Transgender,173,0.3,41,468.18,Obese Class III
+31,Transgender,173,0.99,82,82.94,Obese Class III
+42,Transgender,173,0.32,54,533.6,Obese Class III
+50,Transgender,173,1.33,65,36.92,Obese Class II
+18,Transgender,173,1.09,46,39.03,Obese Class II
+53,Transgender,173,1.83,59,17.7,Mild Thinness
+40,Transgender,173,0.88,81,104.86,Obese Class III
+59,Transgender,173,1.93,93,24.99,Normal
+51,Transgender,173,0.07,108,24878.26,Obese Class III
+36,Transgender,173,1.86,88,25.35,Overweight
+32,Transgender,173,2,73,18.3,Mild Thinness
+23,Transgender,173,0.84,86,120.81,Obese Class III
+31,Transgender,173,1.59,73,28.87,Overweight
+32,Transgender,173,1.88,100,28.2,Overweight
+56,Transgender,173,0.74,44,80.9,Obese Class III
+40,Transgender,173,1.78,51,16.19,Moderate Thinness
+50,Transgender,173,1.72,97,32.98,Obese Class I
+18,Transgender,173,0.41,79,473.19,Obese Class III
+18,Transgender,173,0.28,48,602.38,Obese Class III
+60,Transgender,173,1.85,100,29.25,Overweight
+26,Transgender,173,0.57,37,113.17,Obese Class III
+59,Transgender,173,1.72,69,23.31,Normal
+24,Transgender,173,0.01,89,438273.62,Obese Class III
+51,Transgender,173,1.17,43,31.3,Obese Class I
+36,Transgender,173,0.99,87,88.55,Obese Class III
+48,Transgender,173,1.85,90,26.3,Overweight
+53,Transgender,173,1.8,100,30.98,Obese Class I
+37,Transgender,173,0.21,100,2180.61,Obese Class III
+26,Transgender,173,0.92,98,115.41,Obese Class III
+22,Transgender,173,0.97,74,77.98,Obese Class III
+33,Transgender,173,0.48,60,264.57,Obese Class III
+23,Transgender,173,1.5,36,16.03,Moderate Thinness
+39,Transgender,173,0.33,65,606.59,Obese Class III
+50,Transgender,173,0.25,32,502.61,Obese Class III
+30,Transgender,173,1.9,67,18.48,Mild Thinness
+47,Transgender,173,1.82,37,11.19,Severe Thinness
+36,Transgender,173,1.48,67,30.7,Obese Class I
+20,Transgender,173,0.11,97,8055.82,Obese Class III
+58,Transgender,173,1.32,101,57.94,Obese Class III
+43,Transgender,173,0.78,71,115.6,Obese Class III
+21,Transgender,173,1.02,96,92.85,Obese Class III
+26,Transgender,173,0.39,79,521.08,Obese Class III
+20,Transgender,173,1.92,84,22.86,Normal
+31,Transgender,173,0.45,57,283.05,Obese Class III
+47,Transgender,173,1.51,59,25.77,Overweight
+57,Transgender,173,0.13,40,2517.98,Obese Class III
+54,Transgender,173,1.09,103,86.11,Obese Class III
+19,Transgender,173,1.52,36,15.52,Severe Thinness
+58,Transgender,173,1.93,104,27.89,Overweight
+53,Transgender,173,0.8,110,173.45,Obese Class III
+54,Transgender,173,1.05,56,50.46,Obese Class III
+20,Transgender,173,1.08,69,59.32,Obese Class III
+40,Transgender,173,1.77,105,33.68,Obese Class I
+24,Transgender,173,0.58,105,308.99,Obese Class III
+26,Transgender,173,0.15,108,4689.26,Obese Class III
+31,Transgender,173,1.3,52,30.57,Obese Class I
+19,Transgender,173,1.25,54,34.57,Obese Class I
+37,Transgender,173,1.71,52,17.79,Mild Thinness
+41,Transgender,173,0.14,85,4320.01,Obese Class III
+55,Transgender,173,1.56,47,19.32,Normal
+24,Transgender,173,1.26,47,29.73,Overweight
