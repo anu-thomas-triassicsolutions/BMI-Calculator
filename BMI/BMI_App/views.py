@@ -2,6 +2,7 @@ from django.contrib import messages
 from django.shortcuts import render
 from BMI_App.filters import BmiFilter
 from BMI_App.models import Bmi
+from asgiref.sync import sync_to_async
 
 
 #  Home page
@@ -64,10 +65,28 @@ def bmi_calculator(request):
     return render(request, 'BMI Calculator.html')
 
 
-#  List of different categories of BMI
+#  List of different categories of BMI in asynchronous view
+@sync_to_async
 def bmi_list(request):
     #  saving all bmi data in ascending order
     data = Bmi.objects.all().order_by('bmi').values()
     # filter bmi according to various category
     category_filter = BmiFilter(request.GET, queryset=data)
     return render(request, 'BMI List.html', {'data': data, "category_filter": category_filter})
+
+
+#  Histogram based on category
+def plot(request):
+    #  calculating the count of each category
+    severe_thinness = Bmi.objects.filter(range="Severe Thinness").count()
+    moderate_thinness = Bmi.objects.filter(range="Moderate Thinness").count()
+    mild_thinness = Bmi.objects.filter(range="Mild Thinness").count()
+    normal = Bmi.objects.filter(range="Normal").count()
+    overweight = Bmi.objects.filter(range="Overweight").count()
+    obese_class_i = Bmi.objects.filter(range="Obese Class I").count()
+    obese_class_ii = Bmi.objects.filter(range="Obese Class II").count()
+    obese_class_iii = Bmi.objects.filter(range="Obese Class III").count()
+    # save as list
+    category_count = [severe_thinness, moderate_thinness, mild_thinness,
+                      normal, overweight, obese_class_i, obese_class_ii, obese_class_iii]
+    return render(request, 'Plot.html', {'category_count': category_count})
