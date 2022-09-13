@@ -2,6 +2,7 @@
 {% load crispy_forms_tags %}
 <html>
 <head>
+  <title>BMI List</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -105,8 +106,8 @@ font-size: 20px;
 <ul>
   <li><a href="{% url 'index' %}">Home</a></li>
   <li><a href="#news">BMI List</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li style="float:right"><a class="active" href="#about">BMI Calculator</a></li><br>
+  <li><a href="{% url 'plot' %}">Histogram</a></li>
+  <li style="float:right"><a class="active" href="{% url 'bmi_calculator' %}">BMI Calculator</a></li><br>
 </ul>
 <div class="container">
 <h1><center>  BMI List of all Category</center></h1>
